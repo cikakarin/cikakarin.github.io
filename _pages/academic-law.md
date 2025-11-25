@@ -5,7 +5,7 @@ permalink: /academic-law/
 author_profile: true
 ---
 
-Here you will find my articles and reviews regarding Academic Law.
+Here you will find my articles regarding laws materials.
 
 {% assign posts = site.posts | where_exp: "item", "item.tags contains 'Academic Law'" %}
 {% for post in posts %}
