@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/me.jpg"
+  avatar           : "images/me.jpg"
   name             : "CIKA KARIN"
   pronouns         : # example: "she/her"  
   bio              : "Hello, welcome to my online page! I am an academic researcher and an experienced honest reviewer on foods, beverages, products, and or services."
