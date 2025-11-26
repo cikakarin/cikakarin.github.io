@@ -33,4 +33,4 @@ Wrap up your arguments.
 ### Suggested Citation
 If you wish to cite this article, please use:
 
-> **Cikakarin**. (2025). *"Analysis of New Academic Regulations in Indonesia."* Cikakarin Reviews. Retrieved from: https://cikakarin.com/posts/2025/11/academic-law-analysis/
+> **Cika Karin**. (2025). *"Hukum Jaminan."* Academic Law. Retrieved from: https://cikakarin.com/posts/2025/11/academic-law-article/
