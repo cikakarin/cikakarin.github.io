@@ -11,7 +11,6 @@ toc: true
 toc_label: "Table of Contents"
 ---
 
-## Hukum Jaminan di Indonesia
 # Pengertian
 **Jaminan (*Zekerheid*)**
 Secara terminologis, Jaminan atau *Zekerheid* (Belanda) merujuk pada "kemampuan" atau "objek" dari kekayaan debitur yang menjadi sandaran pelunasan utang. Dalam doktrin hukum perdata, zekerheid adalah jaring pengaman materiil yang memberikan kenyamanan bagi kreditur (Satrio, 2007).
@@ -24,7 +23,7 @@ Istilah hukum jaminan dalam arti *zekerheidsstelling* berfokus pada aspek tata c
 - Tanah: Diatur dalam UU No. 4 Tahun 1996 (UU Hak Tanggungan). Proses zekerheidsstelling-nya melibatkan pembuatan Akta Pemberian Hak Tanggungan (APHT) di hadapan PPAT.
 - Benda Bergerak & Benda Tak Berwujud: Diatur dalam UU No. 42 Tahun 1999 (UU Jaminan Fidusia). Prosesnya melibatkan pendaftaran di Kantor Pendaftaran Fidusia.
 - Gadai: Diatur dalam Pasal 1150-1160 KUHPerdata, yang mensyaratkan perpindahan penguasaan barang (inbezitstelling).
-Intinya, *zekerheidsstelling* menjawab pertanyaan tentang "Bagaimana prosedur hukum untuk mengikat jaminan tersebut agar sah?".
+Intinya adalah *zekerheidsstelling* menjawab pertanyaan tentang "Bagaimana prosedur hukum untuk mengikat jaminan tersebut agar sah?".
 **Hukum Jaminan (*Security of Law*)**
 Istilah hukum jaminan dalam arti *security of law* (atau *law of security*) menekankan pada aspek kepastian dan perlindungan hukum. Ini bukan sekadar tentang aturan main, melainkan tentang jaminan dari negara bahwa hak kreditur akan dilindungi jika debitur wanprestasi (Bahsan, 2012). Di Indonesia, aspek *security of law* ini termanifestasi dalam prinsip *droit de preference* (hak didahulukan). Berdasarkan Pasal 1132 KUHPerdata, hasil penjualan aset debitur dibagi secara proporsional (pari passu), kecuali ada alasan yang sah untuk didahulukan. *Security of Law* memastikan bahwa kreditur pemegang jaminan khusus (separatis) memiliki hak eksekutorial dan tidak perlu berebut dengan kreditur lain (konkuren) dalam hal kepailitan atau eksekusi (Sjahdeini, 2016).
 
@@ -35,10 +34,6 @@ Salim H.S. (2014). Perkembangan Hukum Jaminan di Indonesia. Jakarta: RajaGrafind
 Satrio, J. (2007). Hukum Jaminan, Hak Jaminan Kebendaan. Bandung: Citra Aditya Bakti.
 Sjahdeini, S. R. (2016). Sejarah, Asas, dan Teori Hukum Kepailitan. Jakarta: Prenadamedia Group.
 Sofwan, Sri Soedewi Masjchun. (2001). Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan. Yogyakarta: Liberty.
-
-Jurnal Ilmiah:
-Disemadi, H. S., & Prananingtyas, P. (2020). "Perlindungan Hukum Bagi Kreditur Dalam Eksekusi Jaminan Fidusia". Jurnal Ius Constituendum, 5(2).
-Trisadini, P. U. (2016). "Jaminan Kebendaan dalam Hukum Positif Indonesia". Yuridika, 29(1).
 
 Peraturan Perundang-undangan:
 Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).
