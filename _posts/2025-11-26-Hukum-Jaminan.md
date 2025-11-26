@@ -24,6 +24,7 @@ Istilah hukum jaminan dalam arti *zekerheidsstelling* berfokus pada aspek tata c
 - Benda Bergerak & Benda Tak Berwujud: Diatur dalam UU No. 42 Tahun 1999 (UU Jaminan Fidusia). Prosesnya melibatkan pendaftaran di Kantor Pendaftaran Fidusia.
 - Gadai: Diatur dalam Pasal 1150-1160 KUHPerdata, yang mensyaratkan perpindahan penguasaan barang (inbezitstelling).
 Intinya adalah *zekerheidsstelling* menjawab pertanyaan tentang "Bagaimana prosedur hukum untuk mengikat jaminan tersebut agar sah?".
+
 **Hukum Jaminan (*Security of Law*)**
 Istilah hukum jaminan dalam arti *security of law* (atau *law of security*) menekankan pada aspek kepastian dan perlindungan hukum. Ini bukan sekadar tentang aturan main, melainkan tentang jaminan dari negara bahwa hak kreditur akan dilindungi jika debitur wanprestasi (Bahsan, 2012). Di Indonesia, aspek *security of law* ini termanifestasi dalam prinsip *droit de preference* (hak didahulukan). Berdasarkan Pasal 1132 KUHPerdata, hasil penjualan aset debitur dibagi secara proporsional (pari passu), kecuali ada alasan yang sah untuk didahulukan. *Security of Law* memastikan bahwa kreditur pemegang jaminan khusus (separatis) memiliki hak eksekutorial dan tidak perlu berebut dengan kreditur lain (konkuren) dalam hal kepailitan atau eksekusi (Sjahdeini, 2016).
 
