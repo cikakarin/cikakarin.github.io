@@ -18,6 +18,7 @@ Di Indonesia, konsep *zekerheid* dibagi menjadi dua kategori berdasarkan regulas
 Jaminan Umum: Berdasarkan Pasal 1131 Kitab Undang-Undang Hukum Perdata (KUHPerdata), seluruh harta benda debitur (bergerak/tidak bergerak, yang ada/akan ada) secara otomatis menjadi jaminan (*zekerheid*) bagi seluruh perikatannya.
 Jaminan Khusus: Objek tertentu yang disisihkan secara spesifik untuk kreditur tertentu melalui perjanjian ikutan (accessoir), seperti tanah atau kendaraan (Sofwan, 2001).
 Intinya, *zekerheid* menjawab pertanyaan "Benda apa yang menjamin utang ini?".
+
 **Hukum Jaminan (*Zekerheidsstelling*)**
 Istilah hukum jaminan dalam arti *zekerheidsstelling* berfokus pada aspek tata cara atau pranata pengikatannya. Ini adalah himpunan kaidah hukum yang mengatur proses konstruksi hubungan hukum antara kreditur dan debitur dalam hal pemberian agunan (Salim, 2014). Dalam konteks hukum positif Indonesia, *zekerheidsstelling* mengatur mekanisme legalitas pembebanan aset yang terbagi dalam beberapa rezim aturan:
 - Tanah: Diatur dalam UU No. 4 Tahun 1996 (UU Hak Tanggungan). Proses zekerheidsstelling-nya melibatkan pembuatan Akta Pemberian Hak Tanggungan (APHT) di hadapan PPAT.
