@@ -1,7 +1,7 @@
 ---
 title: "Hukum Jaminan"
 date: 2025-11-26
-permalink: /posts/2025-11-25-academic-law-article/
+permalink: /posts/2025/11/25/academic-law-article/
 tags:
   - Academic Law
   - Education
