@@ -4,7 +4,7 @@ date: 2025-11-26
 source: Dr. Jelly Nasseri, S.H., M.H.
 editor: Cika Karin, d.B.A., d.M.C., B.A., B.A., S.H.
 tags:
-  - Academic Laq
+  - Academic Law
 ---
 toc: true
 toc_label: "Table of Contents"
