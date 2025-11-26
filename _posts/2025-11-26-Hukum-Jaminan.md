@@ -22,15 +22,15 @@ Jaminan Khusus: Objek tertentu yang disisihkan secara spesifik untuk kreditur te
 **Hukum Jaminan (*Zekerheidsstelling*)**
 
 Istilah hukum jaminan dalam arti *zekerheidsstelling* berfokus pada aspek tata cara atau pranata pengikatannya. Ini adalah himpunan kaidah hukum yang mengatur proses konstruksi hubungan hukum antara kreditur dan debitur dalam hal pemberian agunan (Salim, 2014). Dalam konteks hukum positif Indonesia, *zekerheidsstelling* mengatur mekanisme legalitas pembebanan aset yang terbagi dalam beberapa rezim aturan:
-- Tanah: Diatur dalam UU No. 4 Tahun 1996 (UU Hak Tanggungan). Proses zekerheidsstelling-nya melibatkan pembuatan Akta Pemberian Hak Tanggungan (APHT) di hadapan PPAT.
+- Tanah: Diatur dalam UU No. 4 Tahun 1996 (UU Hak Tanggungan). Proses *zekerheidsstelling*-nya melibatkan pembuatan Akta Pemberian Hak Tanggungan (APHT) di hadapan PPAT.
 - Benda Bergerak & Benda Tak Berwujud: Diatur dalam UU No. 42 Tahun 1999 (UU Jaminan Fidusia). Prosesnya melibatkan pendaftaran di Kantor Pendaftaran Fidusia.
-- Gadai: Diatur dalam Pasal 1150-1160 KUHPerdata, yang mensyaratkan perpindahan penguasaan barang (inbezitstelling).
+- Gadai: Diatur dalam Pasal 1150-1160 KUHPerdata, yang mensyaratkan perpindahan penguasaan barang (*inbezitstelling*).
 
 **Hukum Jaminan (*Security of Law*)**
 
-Istilah hukum jaminan dalam arti *security of law* (atau *law of security*) menekankan pada aspek kepastian dan perlindungan hukum. Ini bukan sekadar tentang aturan main, melainkan tentang jaminan dari negara bahwa hak kreditur akan dilindungi jika debitur wanprestasi (Bahsan, 2012). Di Indonesia, aspek *security of law* ini termanifestasi dalam prinsip *droit de preference* (hak didahulukan). Berdasarkan Pasal 1132 KUHPerdata, hasil penjualan aset debitur dibagi secara proporsional (pari passu), kecuali ada alasan yang sah untuk didahulukan. *Security of Law* memastikan bahwa kreditur pemegang jaminan khusus (separatis) memiliki hak eksekutorial dan tidak perlu berebut dengan kreditur lain (konkuren) dalam hal kepailitan atau eksekusi (Sjahdeini, 2016).
+Istilah hukum jaminan dalam arti *security of law* (atau *law of security*) menekankan pada aspek kepastian dan perlindungan hukum. Ini bukan sekadar tentang aturan main, melainkan tentang jaminan dari negara bahwa hak kreditur akan dilindungi jika debitur wanprestasi (Bahsan, 2012). Di Indonesia, aspek *security of law* ini termanifestasi dalam prinsip *droit de preference* (hak didahulukan). Berdasarkan Pasal 1132 KUHPerdata, hasil penjualan aset debitur dibagi secara proporsional (pari passu), kecuali ada alasan yang sah untuk didahulukan. Oleh karena itu, *security of law* memastikan bahwa kreditur pemegang jaminan khusus (separatis) memiliki hak eksekutorial dan tidak perlu berebut dengan kreditur lain (konkuren) dalam hal kepailitan atau eksekusi (Sjahdeini, 2016).
 
-**Ssstem Hukum Jaminan di Indonesia**
+**Sistem Hukum Jaminan di Indonesia**
 
 Hukum Jaminan di Indonesia tidak berdiri sebagai satu undang-undang tunggal, melainkan sebagai sebuah sistem hukum positif yang tersebar dalam berbagai peraturan (*scattered regulations*). Sistem ini merupakan integrasi antara ketentuan umum dalam Kitab Undang-Undang Hukum Perdata (KUHPerdata) dan ketentuan khusus dalam perundang-undangan nasional modern. Secara sistemik, hukum jaminan positif di Indonesia bekerja dengan asas *Lex Specialis Derogat Legi Generali* yang artinya ketentuan umum dalam KUHPerdata (Buku II) tetap berlaku sepanjang tidak diatur secara khusus oleh undang-undang tersendiri (Salim, 2014). Struktur sistem hukum jaminan positif di Indonesia saat ini mencakup:
 
@@ -44,11 +44,7 @@ Hukum Jaminan di Indonesia tidak berdiri sebagai satu undang-undang tunggal, mel
 
 - Jaminan Resi Gudang & Pesawat: Diatur dalam UU No. 9 Tahun 2011 (Resi Gudang) dan UU No. 1 Tahun 2009 (Penerbangan/Hipotek Pesawat).
 
-- Analisis: Sistem ini menunjukkan bahwa hukum jaminan di Indonesia bersifat dinamis, bergerak dari kodifikasi kolonial (KUHPerdata) menuju unifikasi hukum nasional yang terfragmentasi berdasarkan objek jaminannya (Usanti & Firyani, 2019).
-
-**Sifat Hukum Jaminan di Indonesia**
-
-Salah satu karakteristik paling fundamental dari hukum jaminan—khususnya jaminan kebendaan (*zakelijke zekerheidsrechten*) adalah sifatnya yang tertutup (*closed system* / *gesloten system*). Konsep ini menegaskan bahwa orang-orang atau para pihak tidak diperbolehkan menciptakan atau memperjanjikan hak jaminan kebendaan jenis baru selain yang telah ditetapkan secara tegas oleh undang-undang (Sofwan, 2001). Hal ini berbeda dengan Hukum Perjanjian (Buku III KUHPerdata) yang menganut sistem terbuka (open system) dimana para pihak bebas membuat perjanjian apa saja selama tidak melanggar hukum.
+Sistem ini menunjukkan bahwa hukum jaminan di Indonesia bersifat dinamis, bergerak dari kodifikasi kolonial (KUHPerdata) menuju unifikasi hukum nasional yang terfragmentasi berdasarkan objek jaminannya (Usanti & Firyani, 2019). Selain itu, salah satu karakteristik paling fundamental dari hukum jaminan—khususnya jaminan kebendaan (*zakelijke zekerheidsrechten*) adalah sifatnya yang tertutup (*closed system* / *gesloten system*). Konsep ini menegaskan bahwa orang-orang atau para pihak tidak diperbolehkan menciptakan atau memperjanjikan hak jaminan kebendaan jenis baru selain yang telah ditetapkan secara tegas oleh undang-undang (Sofwan, 2001). Hal ini berbeda dengan Hukum Perjanjian (Buku III KUHPerdata) yang menganut sistem terbuka (open system) dimana para pihak bebas membuat perjanjian apa saja selama tidak melanggar hukum.
 
 Implikasi dari asas tertutup ini adalah:
 
