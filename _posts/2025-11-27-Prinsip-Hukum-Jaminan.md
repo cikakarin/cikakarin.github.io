@@ -11,7 +11,7 @@ author: "Cika  Karin, d.B.A., d.M.C., B.A., B.A., S.H."
 excerpt: "Artikel ini membahas secara mendalam tentang prinsip-prinsip Hukum Jaminan dengan studi kasus putusan pengadilan."
 ---
 Hukum Jaminan di Indonesia dibangun di atas fondasi keseimbangan kepentingan antara perlindungan bagi Kreditur (Pemberi Pinjaman) dan keadilan bagi Debitur (Peminjam). Berikut adalah bedah konsep berdasarkan teks yang Anda berikan:
-# Kedudukan Harta Peminjam (Schuld & Haftung)
+# Kedudukan Harta Peminjam (*Schuld & Haftung*)
 Dasar hukum utama perlindungan kreditur di Indonesia adalah Pasal 1131 Kitab Undang-Undang Hukum Perdata (KUHPerdata). Pasal ini menciptakan konsep Jaminan Umum. Secara otomatis, saat seseorang berutang, hukum meletakkan sita umum atas seluruh kekayaannya. Harta yang ada merupakan Aset yang dimiliki saat akad kredit ditandatangani. Sedangkan, harta yang akan ada merupakan aset yang baru dibeli debitur di masa depan setelah kredit berjalan. Prinsip ini menegaskan bahwa tidak ada seorang pun yang bisa lepas dari tanggung jawab membayar utang selama ia memiliki aset. Dalam doktrin, ini disebut hubungan antara Schuld (kewajiban berprestasi) dan Haftung (pertanggungjawaban harta kekayaan) (Satrio, 2007).
 # Kedudukan Pemberi Pinjaman (*Pari Passu vs. Preference*)
 Pasal 1132 KUHPerdata mengatur tata cara pembagian harta debitur jika terjadi gagal bayar (wanprestasi) atau kepailitan. Asas Keseimbangan (*Paritas Creditorum*), secara umum menjelaskan para kreditur memiliki kedudukan yang sama/seimbang. Harta debitur dijual, dan hasilnya dibagi secara proporsional (Pari Passu Pro Rata Parte) sesuai besar piutang masing-masing. Ini berlaku bagi Kreditur Konkuren. Pengecualian (*Droit de Preference)*, pasal ini juga mengakui adanya kreditur yang "didahulukan". Mereka adalah pemegang Jaminan Kebendaan (Gadai, Fidusia, Hak Tanggungan). Jika debitur bangkrut, pemegang jaminan ini (disebut kreditur separatis) dapat mengambil pelunasan dari penjualan aset jaminan tersebut seolah-olah tidak terjadi kepailitan tanpa perlu berbagi dengan kreditur lain (Sjahdeini, 2016).
@@ -20,7 +20,7 @@ Prinsip ini adalah "rem darurat" untuk melindungi debitur lemah dari kesewenang-
 o Pasal 1154 KUHPerdata (Gadai).
 o	Pasal 12 UU No. 4 Tahun 1996 (Hak Tanggungan).
 o	Pasal 33 UU No. 42 Tahun 1999 (Fidusia).
-## Analisis Studi Kasus: "Perjanjian Jual Beli Sebagai Jaminan Terselubung"
+# Analisis Studi Kasus: "Perjanjian Jual Beli Sebagai Jaminan Terselubung"
 Untuk mengilustrasikan larangan menjanjikan pemilikan objek jaminan (*pactum commissorium*), saya memilih kasus yang sering terjadi dalam praktik peradilan di Indonesia, yaitu praktik Perjanjian Pengikatan Jual Beli (PPJB) yang dibuat sebagai jaminan utang.
 ### A. Deskripsi Kasus (Berdasarkan Yurisprudensi Mahkamah Agung)
 Seorang Debitur (A) meminjam uang sebesar Rp500 juta kepada Kreditur (B). Sebagai jaminan, B tidak meminta A membuat Akta Hak Tanggungan, melainkan meminta A menandatangani Akta Pengikatan Jual Beli (PPJB) atau Akta Kuasa Mutlak untuk Menjual atas tanah milik A seharga Rp500 juta (padahal harga pasar tanah tersebut Rp2 Miliar).<br>
@@ -39,14 +39,16 @@ Sertifikat yang sudah dibalik nama ke atas nama B dinyatakan tidak sah oleh peng
 # Kesimpulan
 Prinsip-prinsip hukum jaminan di Indonesia dirancang untuk menciptakan fairness. Pasal 1131 dan 1132 KUHPerdata memastikan kreditur bisa mendapatkan uangnya kembali, namun larangan Pactum Commissorium memastikan kreditur tidak memanfaatkan posisi tawar debitur yang lemah untuk menguasai aset secara tidak adil. Kasus penggunaan PPJB sebagai jaminan membuktikan bahwa hakim di Indonesia jeli melihat substansi hukum untuk menegakkan larangan tersebut.
 # Daftar Pustaka
-Buku & Literatur Akademik:<br>
-•	Satrio, J. (2007). Hukum Jaminan, Hak Jaminan Kebendaan. Bandung: Citra Aditya Bakti. (Analisis mendalam mengenai hubungan Schuld dan Haftung).
-•	Sjahdeini, S. R. (2016). Sejarah, Asas, dan Teori Hukum Kepailitan. Jakarta: Prenadamedia Group. (Membahas posisi kreditur separatis dan konkuren).
-•	Suyatno, R. A. (2018). Pemanfaatan Penundaan Kewajiban Pembayaran Utang Sebagai Upaya Penyelesaian Sengketa Kepailitan. Jakarta: Kencana.
+Buku & Literatur Akademik:
+1. Satrio, J. (2007). Hukum Jaminan, Hak Jaminan Kebendaan. Bandung: Citra Aditya Bakti. (Analisis mendalam mengenai hubungan Schuld dan Haftung).
+2. Sjahdeini, S. R. (2016). Sejarah, Asas, dan Teori Hukum Kepailitan. Jakarta: Prenadamedia Group. (Membahas posisi kreditur separatis dan konkuren).
+3. Suyatno, R. A. (2018). Pemanfaatan Penundaan Kewajiban Pembayaran Utang Sebagai Upaya Penyelesaian Sengketa Kepailitan. Jakarta: Kencana.
+
 Yurisprudensi & Putusan Pengadilan:
-•	Putusan Mahkamah Agung RI No. 2868 K/Pdt/1990 tertanggal 10 Juni 1993 (Yurisprudensi mengenai pembatalan jual beli yang didasari utang piutang).
-•	Putusan Mahkamah Agung RI No. 226 PK/Pdt/2009 (Menegaskan larangan penguasaan mutlak objek jaminan).
-Peraturan Perundang-undangan:<br>
+1. Putusan Mahkamah Agung RI No. 2868 K/Pdt/1990 tertanggal 10 Juni 1993 (Yurisprudensi mengenai pembatalan jual beli yang didasari utang piutang).
+2. Putusan Mahkamah Agung RI No. 226 PK/Pdt/2009 (Menegaskan larangan penguasaan mutlak objek jaminan).
+
+Peraturan Perundang-undangan:
 1.	Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).
 2.	Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan.
 3.	Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.
