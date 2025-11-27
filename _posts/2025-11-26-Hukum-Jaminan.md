@@ -77,6 +77,16 @@ Istilah hukum jaminan dalam arti <i>security of law</i> (atau <i>law of security
   <figcaption>Figure 4: Sumber Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
 
+# <u>Klasifikasi Jaminan </u>
+### Klasifikasi Jaminan Menurut Sifatnya
+
+
+### Klasifikasi Jaminan Dilihat dari Sifatnya
+<figure style="text-align: center;">
+  <img src="/images/subjek-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 5: Klasifikasi Jaminan dari Sifatnya. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+</figure>
+
 # <u>Sistem Hukum Jaminan di Indonesia</u>
 Hukum Jaminan di Indonesia tidak berdiri sebagai satu undang-undang tunggal, melainkan sebagai sebuah sistem hukum positif yang tersebar dalam berbagai peraturan (<i>scattered regulations</i>). Sistem ini merupakan integrasi antara ketentuan umum dalam Kitab Undang-Undang Hukum Perdata (KUHPerdata) dan ketentuan khusus dalam perundang-undangan nasional modern. Secara sistemik, hukum jaminan positif di Indonesia bekerja dengan asas <i>Lex Specialis Derogat Legi Generali</i> yang artinya ketentuan umum dalam KUHPerdata (Buku II) tetap berlaku sepanjang tidak diatur secara khusus oleh undang-undang tersendiri (Salim, 2014). Struktur sistem hukum jaminan positif di Indonesia saat ini mencakup:<br>
 - Fondasi Umum: Pasal 1131 dan 1132 KUHPerdata sebagai dasar lahirnya hak jaminan umum bagi kreditur atas seluruh harta debitur.<br>
@@ -152,11 +162,6 @@ PT. Finance A (kreditur) memberikan pembiayaan pembelian 10 unit truk kepada CV.
 Posisi PT. Finance A dalam kasus ini sangat lemah dan tindakan kurator adalah benar secara hukum karea melanggar syarat formil dalam UU No. 42 Tahun 1999 Pasal 5 ayat (1) UU Jaminan Fidusia menyatakan secara tegas, "*Pembebanan Benda dengan Jaminan Fidusia dibuat dengan akta notaris dalam bahasa Indonesia dan merupakan akta Jaminan Fidusia*." Penggunaan akta dibawah tangan untuk objek fidusia (benda bergerak yang penguasaannya tetap pada debitur) melanggar syarat formil ini. Akibatnya, perjanjian jaminan fidusia tersebut dianggap tidak pernah lahir atau batal demi hukum (Bahsan, 2012). Gagalnya asas publisitas karena hanya menggunakan akta dibawah tangan, jaminan tersebut tidak bisa didaftarkan ke kantor fidusia sesuai Pasal 11 ayat 1 yang mewajibkan pendaftaran. Tanpa pendaftaran, Sertifikat Jaminan Fidusia tidak terbit. Tanpa sertifikat, tidak lahir Hak Kebendaan (*Zakelijk Recht*). Degradasi status kreditur dalam konsekuensi kepailitan) karena hak kebendaan fidusia tidak terbentuk, maka PT. Finance A kehilangan hak istimewanya (*droit de preference*). Dalam proses kepailitan CV. Logistik B, status PT. Finance A turun derajatnya dari kreditur separatis (yang didahulukan / pemegang jaminan) menjadi kreditur konkuren (kreditur biasa tanpa jaminan). PT. Finance A harus antri dengan kreditur-kreditur lain (seperti supplier ATK, katering, dll) untuk mendapatkan sisa hasil penjualan aset boedel pailit secara pari passu (proporsional), yang sering kali nilainya sangat kecil atau nol (Sjahdeini, 2016).
 
 Pengikatan jaminan di Indonesia menganut formalitas ketat. Meskipun gadai (dengan penguasaan fisik) masih memungkinkan penggunaan akta dibawah tangan, namun untuk jaminan fidusia dan hak tanggungan (tanpa penguasaan fisik) karena penggunaan akta autentik adalah syarat mutlak (*conditio sine qua non*). Kreditur yang mengabaikan syarat autentisitas demi efisiensi biaya, seperti dalam kasus di atas, berisiko kehilangan perlindungan hukum dan aset jaminannya saat debitur wanprestasi atau pailit.
-# <u>Klasifikasi Jaminan Dilihat dari Sifatnya</u>
-<figure style="text-align: center;">
-  <img src="/images/subjek-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 5: Klasifikasi Jaminan dari Sifatnya. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
-</figure>
 
 # <u>Daftar Pustaka</u>
 Buku & Literatur Akademik:
