@@ -48,6 +48,12 @@ Istilah hukum jaminan dalam arti <i>zekerheidsstelling</i> berfokus pada aspek t
 
 ### Hukum Jaminan (*Security of Law*)
 Istilah hukum jaminan dalam arti <i>security of law</i> (atau <i>law of security</i>) menekankan pada aspek kepastian dan perlindungan hukum. Ini bukan sekadar tentang aturan main, melainkan tentang jaminan dari negara bahwa hak kreditur akan dilindungi jika debitur wanprestasi (Bahsan, 2012). Di Indonesia, aspek <i>security of law</i> ini termanifestasi dalam prinsip <i>droit de preference</i> (hak didahulukan). Berdasarkan Pasal 1132 KUHPerdata, hasil penjualan aset debitur dibagi secara proporsional (*pari passu*), kecuali ada alasan yang sah untuk didahulukan. Oleh karena itu, <i>security of law</i> memastikan bahwa kreditur pemegang jaminan khusus (separatis) memiliki hak eksekutorial dan tidak perlu berebut dengan kreditur lain (konkuren) dalam hal kepailitan atau eksekusi (Sjahdeini, 2016).
+# <u>Subjek Hukum Jaminan</u>
+PIC
+
+
+
+
 # <u>Sistem Hukum Jaminan di Indonesia</u>
 Hukum Jaminan di Indonesia tidak berdiri sebagai satu undang-undang tunggal, melainkan sebagai sebuah sistem hukum positif yang tersebar dalam berbagai peraturan (<i>scattered regulations</i>). Sistem ini merupakan integrasi antara ketentuan umum dalam Kitab Undang-Undang Hukum Perdata (KUHPerdata) dan ketentuan khusus dalam perundang-undangan nasional modern. Secara sistemik, hukum jaminan positif di Indonesia bekerja dengan asas <i>Lex Specialis Derogat Legi Generali</i> yang artinya ketentuan umum dalam KUHPerdata (Buku II) tetap berlaku sepanjang tidak diatur secara khusus oleh undang-undang tersendiri (Salim, 2014). Struktur sistem hukum jaminan positif di Indonesia saat ini mencakup:<br>
 - Fondasi Umum: Pasal 1131 dan 1132 KUHPerdata sebagai dasar lahirnya hak jaminan umum bagi kreditur atas seluruh harta debitur.<br>
@@ -103,6 +109,31 @@ Konsekuensi dari sifat "dapat dipertahankan terhadap setiap orang" adalah kredit
   <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
   <figcaption>Figure 3: Sumber Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
+
+# <u>Pengikatan Jaminan</u>
+Pengikatan jaminan adalah tahap krusial dalam perjanjian kredit. Ini adalah momen di mana perjanjian yang bersifat *accesoir* (ikutan) direalisasikan untuk mengikat aset tertentu sebagai agunan pelunasan utang dari perjanjian pokok. Di Indonesia, bentuk formalitas pengikatan ini sangat menentukan posisi hukum kreditur (kreditur preferen atau konkuren).
+### <u>Pengikatan Dengan Akta Autentik (*Authentieke Daad*)</u>
+Akta autentik adalah alat bukti yang memiliki kekuatan pembuktian sempurna (*volledig bewijs*). Berdasarkan Pasal 1868 KUHPerdata, suatu akta adalah autentik jika dibuat dalam bentuk yang ditentukan oleh undang-undang, oleh atau di hadapan pejabat umum yang berwenang (*openbaar ambtenaar*) di tempat akta itu dibuat. Undang-undang jaminan modern di Indonesia mayoritas mewajibkan penggunaan akta autentik sebagai syarat mutlak (*bestaansvoorwaarde*) validitas jaminan, bukan sekadar alat bukti. Contoh:
+- Hak tanggungan atas tanah wajib dibuat dengan Akta Pejabat Pembuat Akta Tanah (PPAT) sesuai Pasal 10 ayat (2) UU No. 4 Tahun 1996.
+- Jaminan fidusia (benda bergerak & harta lancar / inventory) qajib dibuat dengan akta Notaris dalam Bahasa Indonesia sesuai Pasal 5 ayat (1) UU No. 42 Tahun 1999.
+- Hipotek kapal / pesawat wajib dengan akta autentik (Pejabat Pendaftar dan Pencatat Balik Nama Kapal).
+
+Akta-akata tersebut diatas menjamin tanggal kepastian, identitas para pihak, dan isi perjanjian, sehingga sulit disangkal oleh pihak ketiga kecuali dapat dibuktikan kepalsuannya (Subekti, 2005).
+### Pengikatan Dengan Akta Dibawah Tangan (*Onderhandsche Akte*)
+Akta dibawah tangan adalah akta yang sengaja dibuat untuk pembuktian oleh para pihak tanpa bantuan pejabat umum. Berdasarkan Pasal 1874 KUHPerdata, akta ini hanya berupa tulisan yang ditandatangani oleh para pihak. Kekuatan pembuktiannya bergantung pada pengakuan tanda tangan oleh pihak yang mengingkarinya. Berikut jaminan yang umumnya dibuatkan akta dibawah tangan:
+- Penerapan pada harta lancar & benda bergerak: Pernyataan bahwa akta ini "umumnya dilakukan untuk harta lancar" perlu dipahami dengan batasan ketat dalam hukum positif saat ini.
+- Gadai: Berdasarkan Pasal 1151 KUHPerdata, persetujuan gadai boleh dibuktikan dengan segala alat bukti yang diperbolehkan bagi perikatan pokok (termasuk akta di bawah tangan atau lisan). Ini sering terjadi pada gadai saham (*pledge of shares*) atau gadai perhiasan di mana penguasaan fisik berpindah (*inbezitsstelling*).
+- Cessie sebagai Jaminan: Pengalihan piutang dagang (harta lancar) sering kali dilakukan dengan akta di bawah tangan, asalkan telah diberitahukan (*betekend*) kepada debitur sesuai Pasal 613 KUHPerdata.
+
+Untuk harta lancar berupa inventory (stok barang) bukan benda bergerak yang dikuasai debitur, tidak bisa menggunakan akta di bawah tangan karena harus menggunakan skema fidusia yang wajib Notariil. Penggunaan akta di bawah tangan untuk Fidusia mengakibatkan jaminan batal demi hukum (Satrio, 2002).
+### Analisis Studi Kasus "Kebatalan Jaminan Fidusia Akibat Akta Di Bawah Tangan"
+Untuk memperjelas risiko penggunaan akta dibawah tangan pada objek yang seharusnya menggunakan akta autentik, saya memilih kasus sengketa eksekusi kendaraan bermotor.
+#### Deskripsi Kasus
+PT. Finance A (kreditur) memberikan pembiayaan pembelian 10 unit truk kepada CV. Logistik B (debitur). Untuk menghemat biaya Notaris, kedua belah pihak sepakat untuk menandatangani "Perjanjian Pembiayaan dan Penyerahan Hak Milik Secara Kepercayaan" hanya dengan akta dibawah tangan (bermaterai cukup), tanpa dibuatkan akta Notaris dan tanpa didaftarkan ke kantor pendaftaran fidusia. Setahun kemudian, CV. Logistik B mengalami kesulitan keuangan dan diputus pailit oleh pengadilan niaga. PT. Finance A mencoba menarik 10 unit truk tersebut dengan mengklaim bahwa truk itu adalah objek jaminan miliknya (kreditur separatis). Namun, kurator kepailitan menolak klaim tersebut dan memasukkan truk ke dalam boedel pailit umum.
+#### Analisis Hukum
+Posisi PT. Finance A dalam kasus ini sangat lemah dan tindakan kurator adalah benar secara hukum karea melanggar syarat formil dalam UU No. 42 Tahun 1999 Pasal 5 ayat (1) UU Jaminan Fidusia menyatakan secara tegas, "*Pembebanan Benda dengan Jaminan Fidusia dibuat dengan akta notaris dalam bahasa Indonesia dan merupakan akta Jaminan Fidusia*." Penggunaan akta dibawah tangan untuk objek fidusia (benda bergerak yang penguasaannya tetap pada debitur) melanggar syarat formil ini. Akibatnya, perjanjian jaminan fidusia tersebut dianggap tidak pernah lahir atau batal demi hukum (Bahsan, 2012). Gagalnya asas publisitas karena hanya menggunakan akta dibawah tangan, jaminan tersebut tidak bisa didaftarkan ke kantor fidusia sesuai Pasal 11 ayat 1 yang mewajibkan pendaftaran. Tanpa pendaftaran, Sertifikat Jaminan Fidusia tidak terbit. Tanpa sertifikat, tidak lahir Hak Kebendaan (*Zakelijk Recht*). Degradasi status kreditur dalam konsekuensi kepailitan) karena hak kebendaan fidusia tidak terbentuk, maka PT. Finance A kehilangan hak istimewanya (*droit de preference*). Dalam proses kepailitan CV. Logistik B, status PT. Finance A turun derajatnya dari kreditur separatis (yang didahulukan / pemegang jaminan) menjadi kreditur konkuren (kreditur biasa tanpa jaminan). PT. Finance A harus antri dengan kreditur-kreditur lain (seperti supplier ATK, katering, dll) untuk mendapatkan sisa hasil penjualan aset boedel pailit secara pari passu (proporsional), yang sering kali nilainya sangat kecil atau nol (Sjahdeini, 2016).
+
+Pengikatan jaminan di Indonesia menganut formalitas ketat. Meskipun gadai (dengan penguasaan fisik) masih memungkinkan penggunaan akta dibawah tangan, namun untuk jaminan fidusia dan hak tanggungan (tanpa penguasaan fisik) karena penggunaan akta autentik adalah syarat mutlak (*conditio sine qua non*). Kreditur yang mengabaikan syarat autentisitas demi efisiensi biaya, seperti dalam kasus di atas, berisiko kehilangan perlindungan hukum dan aset jaminannya saat debitur wanprestasi atau pailit.
 
 # <u>Daftar Pustaka</u>
 Buku & Literatur Akademik:
