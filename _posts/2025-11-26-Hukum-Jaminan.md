@@ -48,11 +48,34 @@ Istilah hukum jaminan dalam arti <i>zekerheidsstelling</i> berfokus pada aspek t
 
 ### Hukum Jaminan (*Security of Law*)
 Istilah hukum jaminan dalam arti <i>security of law</i> (atau <i>law of security</i>) menekankan pada aspek kepastian dan perlindungan hukum. Ini bukan sekadar tentang aturan main, melainkan tentang jaminan dari negara bahwa hak kreditur akan dilindungi jika debitur wanprestasi (Bahsan, 2012). Di Indonesia, aspek <i>security of law</i> ini termanifestasi dalam prinsip <i>droit de preference</i> (hak didahulukan). Berdasarkan Pasal 1132 KUHPerdata, hasil penjualan aset debitur dibagi secara proporsional (*pari passu*), kecuali ada alasan yang sah untuk didahulukan. Oleh karena itu, <i>security of law</i> memastikan bahwa kreditur pemegang jaminan khusus (separatis) memiliki hak eksekutorial dan tidak perlu berebut dengan kreditur lain (konkuren) dalam hal kepailitan atau eksekusi (Sjahdeini, 2016).
+# <u>Pengertian Menurut Para Ahli</u>
+**Salim H.S** - Hukum Jaminan adalah keseluruhan kaidah-kadiah hukum yang mengatur hubungan antara pemberi dan penerima jaminan dalam kaitannya dengan pembebanan jaminan untuk mendapatkan fasilitas kredit.<br>
+**Sri Soedewi Maschjoen Sofwan** - Hukum Jaminan adalah hukum yang mengatur konstruksi yuridis yang memungkinkan pemberian fasilitas kredit dengan menjaminkan benda-benda yang dibelinya sebagai jaminan.<br>
+**J. Satrio** - Hukum jaminan adalah peraturan hukum yang mengatur jaminan-jaminan piutang seorang kreditur terhadap debitur.<br>
+**M. Bahsan** - Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan penjaminan dalam rangka utang piutang (pinjaman uang) yang terdapat dalam berbagai peraturan perundang-undangan yang berlaku saat ini.
 # <u>Subjek Hukum Jaminan</u>
-PIC
+<figure style="text-align: center;">
+  <img src="/images/subjek-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 1: Subjek Hukum dalam Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+</figure>
 
+# <u>Unsur Jaminan</u>
+<figure style="text-align: center;">
+  <img src="/images/unsur-jaminan.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 2: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+</figure>
 
+# <u>Unsur Hukum Jaminan</u>
+<figure style="text-align: center;">
+  <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 3: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+</figure>
 
+# <u>Sumber Hukum</u>
+<figure style="text-align: center;">
+  <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 4: Sumber Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+</figure>
 
 # <u>Sistem Hukum Jaminan di Indonesia</u>
 Hukum Jaminan di Indonesia tidak berdiri sebagai satu undang-undang tunggal, melainkan sebagai sebuah sistem hukum positif yang tersebar dalam berbagai peraturan (<i>scattered regulations</i>). Sistem ini merupakan integrasi antara ketentuan umum dalam Kitab Undang-Undang Hukum Perdata (KUHPerdata) dan ketentuan khusus dalam perundang-undangan nasional modern. Secara sistemik, hukum jaminan positif di Indonesia bekerja dengan asas <i>Lex Specialis Derogat Legi Generali</i> yang artinya ketentuan umum dalam KUHPerdata (Buku II) tetap berlaku sepanjang tidak diatur secara khusus oleh undang-undang tersendiri (Salim, 2014). Struktur sistem hukum jaminan positif di Indonesia saat ini mencakup:<br>
@@ -87,66 +110,66 @@ B. "Dipertahankan Terhadap Setiap Orang" (Sifat Absolut & <i>Droit de Suite</i>)
 Berbeda dengan hak perorangan (perjanjian) yang hanya mengikat pihak yang berjanji, Hak Kebendaan melekat pada bendanya. Hak jaminan akan terus mengikuti benda tersebut di tangan siapa pun benda itu berada. Jika debitur menjual mobil yang sedang dijaminkan secara fidusia kepada pihak ketiga, hak jaminan kreditur tidak hapus. Kreditur tetap berhak mengambil dan mengeksekusi mobil tersebut dari tangan pihak ketiga yang membelinya. Prinsip ini ditegaskan dalam Pasal 7 UU Hak Tanggungan dan Pasal 20 UU Jaminan Fidusia, yang menjamin bahwa hak jaminan tetap mengikuti objeknya meskipun objek tersebut berpindah tangan/kepemilikan (Sofwan, 2001).<br>
 C. Hak Didahulukan (<i>Droit de Preference</i>)<br>
 Konsekuensi dari sifat "dapat dipertahankan terhadap setiap orang" adalah kreditur pemegang jaminan kebendaan (kreditur separatis) memiliki hak prioritas dibandingkan kreditur biasa (kreditur konkuren). Sesuai Pasal 1132 KUHPerdata, hasil penjualan benda jaminan tidak dibagi secara proporsional (*pari passu*) dengan kreditur lain, melainkan digunakan sepenuhnya untuk melunasi kreditur pemegang hak kebendaan terlebih dahulu. Sisa uangnya barulah dibagikan kepada kreditur lain (Isnaeni, 2016).
-# <u>Pengertian Menurut Para Ahli</u>
-**Salim H.S** - Hukum Jaminan adalah keseluruhan kaidah-kadiah hukum yang mengatur hubungan antara pemberi dan penerima jaminan dalam kaitannya dengan pembebanan jaminan untuk mendapatkan fasilitas kredit.<br>
-**Sri Soedewi Maschjoen Sofwan** - Hukum Jaminan adalah hukum yang mengatur konstruksi yuridis yang memungkinkan pemberian fasilitas kredit dengan menjaminkan benda-benda yang dibelinya sebagai jaminan.<br>
-**J. Satrio** - Hukum jaminan adalah peraturan hukum yang mengatur jaminan-jaminan piutang seorang kreditur terhadap debitur.<br>
-**M. Bahsan** - Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan penjaminan dalam rangka utang piutang (pinjaman uang) yang terdapat dalam berbagai peraturan perundang-undangan yang berlaku saat ini.
-# <u>Unsur Jaminan</u>
-<figure style="text-align: center;">
-  <img src="/images/unsur-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
-</figure>
+# <u>Syarat-Syarat Timbulnya Hak Jaminan Kebendaan</u>
+Hak Jaminan Kebendaan (*Zakelijke Zekerheidsrechten*) memberikan kreditur kedudukan istimewa (preferent) dibandingkan kreditur lainnya. Karena sifatnya yang kuat dan mengikat pihak ketiga, hukum Indonesia menetapkan syarat-syarat limitatif agar hak tersebut lahir secara sah sebagai berikut:
+1. Adanya Perikatan Pokok (Sifat *Accessoir*)
+Hak jaminan kebendaan tidak dapat berdiri sendiri; ia bersifat *accessoir* atau buntut dari perjanjian pokok. Berdasarkan Pasal 1133 KUHPerdata, hak jaminan lahir karena adanya perikatan (biasanya utang-piutang). Jika perjanjian kredit (pokok) batal demi hukum atau lunas, maka demi hukum hak jaminan tersebut juga hapus (null and void). Tidak mungkin ada pembebanan jaminan tanpa adanya kewajiban prestasi yang harus dijamin (Satrio, 2007).
+2. Benda Milik Debitur Dapat Diidentifikasi (Asas Spesialitas)
+Syarat ini menuntut kejelasan objek (certainty of subject matter). Perjanjian jaminan tidak sah jika objeknya kabur (contoh: "seluruh harta saya"). Untuk tanah (Hak Tanggungan), Pasal 11 ayat (1) UU No. 4 Tahun 1996 mewajibkan pencantuman detail objek, dan untuk benda bergerak (Fidusia), Pasal 6 UU No. 42 Tahun 1999 mewajibkan uraian benda. Hukum mengakomodasi benda yang akan ada di kemudian hari (misalnya: inventory atau piutang dagang masa depan), asalkan spesifikasinya didefinisikan dengan jelas dalam akta saat ini, sehingga saat benda itu diperoleh debitur, benda itu otomatis terikat jaminan (Bahsan, 2012).
+3. Kewenangan Debitur & Pengecualian Gadai
+Prinsip utamanya adalah *nemo plus iuris* (seseorang tidak dapat mengalihkan hak melebihi apa yang dimilikinya). Namun, terdapat pengecualian penting dalam Gadai, yaitu hanya pemilik sah yang berwenang melakukan tindakan kepemilikan (*beschikkingsdaad*) berupa penjaminan aset. Pengecualian gadai ini dimuat dalam Pasal 1152 ayat 4 & Pasal 1977 KUHPerdata yang menerangkan bahwa untuk menjamin kelancaran lalu lintas perdagangan benda bergerak, hukum melindungi kreditur (penerima gadai) yang beritikad baik. Jika kreditur menerima gadai dari orang yang menguasai benda (*bezitter*) tanpa mengetahui bahwa orang tersebut bukan pemilik asli, hak gadai tersebut tetap SAH sebagaimana Pasal 1977 ayat (1) KUHPerdata (*bezit vaut titre*) menegaskan bahwa penguasaan fisik atas benda bergerak berlaku sebagai alas hak yang sempurna (Subekti, 2003).
+4. Perjanjian Formal (Asas Publisitas & Formalitas)
+Niat saja tidak cukup, harus ada tindakan hukum nyata yang dituangkan dalam perjanjian. Tindakan sepihak (unilateral) debitur yang menyatakan "tanah ini saya jaminkan" tidak memiliki kekuatan hukum jaminan. Harus ada kata sepakat (agreement) yang dituangkan dalam bentuk yang ditentukan undang-undang, seperti hak tanggungan wajib Akta PPAT, fidusia wajib akta notaris, dan gadai cukup perjanjian lisan sah, namun syarat mutlaknya adalah penyerahan fisik barang (inbezitsstelling) kepada kreditur sesuai Pasal 1150 KUHPerdata.
+5. Syarat Tangguh (*Opschortende Voorwaarde*)
+Hak jaminan bisa digantungkan pada suatu kejadian di masa depan. Berdasarkan Pasal 1263 KUHPerdata, perikatan bersyarat tangguh adalah perikatan yang pelaksanaannya ditunda hingga peristiwa tertentu terjadi. Contoh, jaminan fidusia atas mesin pabrik yang baru akan di impor bulan depan. Hak jaminan kebendaan (fidusia) baru efektif lahir dan melekat saat syarat tangguh itu terpenuhi, yaitu saat mesin tiba dan menjadi milik debitur, bukan saat perjanjian ditandatangani.
+#### Contoh Kasus "Gadai Lensa Kamera Pinjaman".
+Saya mengambil contoh kasus mengenai kewenangan debitur dan pengecualian gadai sesuai Pasal 1152 ayat 4 dan 1977 KUHPerdata, berikut adalah kasus nyata yang sering terjadi, seperti "gadai lensa kamera pinjaman".
+Tuan A (peminjam /pPelaku) meminjam sebuah lensa kamera seharga Rp. 20 juta dari temannya, Tuan B (pemilik asli) dengan alasan untuk pekerjaan fotografi. Tanpa izin Tuan B, Tuan A membawa lensa tersebut ke Toko Gadai X (kreditur). Karena Tuan A memegang fisik lensa tersebut, Toko Gadai X percaya bahwa itu milik Tuan A. Toko Gadai X memberikan pinjaman Rp. 5 juta, dan Tuan A menyerahkan lensa tersebut. Tuan A kemudian menghilang, dan Tuan B mendatangi Toko Gadai X dan menuntut lensanya dikembalikan karena ia tidak pernah memberikan kuasa untuk menggadaikan.
+#### Analisis Hukum
+Dalam sengketa antara pemilik asli (Tuan B) melawan pemegang gadai (Toko Gadai X), hukum Indonesia memberikan perlindungan kepada Toko Gadai X, asalkan ia beritikad baik. Penerapan Pasal 1977 ayat (1) KUHPerdata (*bezit vaut titre*) yang menyatakan terhadap benda bergerak yang tidak berupa bunga maupun piutang yang tidak harus dibayar kepada si pembawa, maka barangsiapa yang menguasainya dianggap sebagai pemiliknya. Toko Gadai X melihat Tuan A menguasai fisik lensa, ecara hukum, Toko Gadai X berhak berasumsi Tuan A adalah pemilik sah, dan Toko Gadai X tidak wajib meminta bukti pembelian (faktur) untuk benda bergerak yang tidak terdaftar seperti lensa kamera. Validitas Hak Gadai diterangkan dalam Pasal 1152 ayat 4 KUHPerdata) yang secara spesifik melindungi pemegang gadai, "*Ketidakwenangan si pemberi gadai... tidak dapat dipertanggungjawabkan kepada si pemegang gadai, jika hak ini diperolehnya dengan itikad baik*." Karena Tuan A tidak berwenang (bukan pemilik), seharusnya gadai itu batal. Namun, karena Toko Gadai X tidak mengetahui cacat kewenangan tersebut (itikad baik), maka hak gadainya tetap SAH dan mengikat. Pemilik asli (Tuan B) tidak dapat mengambil paksa lensa tersebut dari Toko Gadai X secara cuma-cuma (vindokasi terhalang hak gadai) karena hak gadai Toko Gadai X memberikan hak retensi (hak menahan barang) sampai utang dilunasi. Tuan B harus menebus lensa tersebut (membayar utang Tuan A) kepada Toko Gadai X jika ingin barangnya kembali segera. Kemudian, Tuan B dapat menuntut ganti rugi dan melaporkan Tuan A atas tindak pidana Penggelapan sesuai Pasal 372 KUHP dan gugatan perdata perbuatan melawan hukum sesuai Pasal 1365 KUHPerdata kepada Tuan A (Usanti, 2019).
 
-# <u>Unsur Hukum Jaminan</u>
-<figure style="text-align: center;">
-  <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 2: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
-</figure>
-
-# <u>Sumber Hukum</u>
-<figure style="text-align: center;">
-  <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 3: Sumber Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
-</figure>
+Kesimpulannya, kelima syarat timbulnya hak jaminan kebendaan merupakan satu kesatuan sistem. Syarat formalitas dan spesialitas melindungi kepentingan debitur dari sitaan sewenang-wenang, sementara syarat perikatan pokok memastikan jaminan memiliki dasar kausa yang halal. Khusus untuk gadai, hukum memberikan pengecualian atas syarat kewenangan dimana prinsip perlindungan itikad baik dan kelancaran lalu lintas ekonomi mengalahkan prinsip kepemilikan mutlak.
 
 # <u>Pengikatan Jaminan</u>
-Pengikatan jaminan adalah tahap krusial dalam perjanjian kredit. Ini adalah momen di mana perjanjian yang bersifat *accesoir* (ikutan) direalisasikan untuk mengikat aset tertentu sebagai agunan pelunasan utang dari perjanjian pokok. Di Indonesia, bentuk formalitas pengikatan ini sangat menentukan posisi hukum kreditur (kreditur preferen atau konkuren).
+Pengikatan jaminan adalah tahap krusial dalam perjanjian kredit. Ini adalah momen dimana perjanjian yang bersifat *accesoir* (ikutan) direalisasikan untuk mengikat aset tertentu sebagai agunan pelunasan utang dari perjanjian pokok. Di Indonesia, bentuk formalitas pengikatan ini sangat menentukan posisi hukum kreditur (kreditur preferen atau konkuren).
 ### <u>Pengikatan Dengan Akta Autentik (*Authentieke Daad*)</u>
 Akta autentik adalah alat bukti yang memiliki kekuatan pembuktian sempurna (*volledig bewijs*). Berdasarkan Pasal 1868 KUHPerdata, suatu akta adalah autentik jika dibuat dalam bentuk yang ditentukan oleh undang-undang, oleh atau di hadapan pejabat umum yang berwenang (*openbaar ambtenaar*) di tempat akta itu dibuat. Undang-undang jaminan modern di Indonesia mayoritas mewajibkan penggunaan akta autentik sebagai syarat mutlak (*bestaansvoorwaarde*) validitas jaminan, bukan sekadar alat bukti. Contoh:
 - Hak tanggungan atas tanah wajib dibuat dengan Akta Pejabat Pembuat Akta Tanah (PPAT) sesuai Pasal 10 ayat (2) UU No. 4 Tahun 1996.
 - Jaminan fidusia (benda bergerak & harta lancar / inventory) qajib dibuat dengan akta Notaris dalam Bahasa Indonesia sesuai Pasal 5 ayat (1) UU No. 42 Tahun 1999.
 - Hipotek kapal / pesawat wajib dengan akta autentik (Pejabat Pendaftar dan Pencatat Balik Nama Kapal).
 
-Akta-akata tersebut diatas menjamin tanggal kepastian, identitas para pihak, dan isi perjanjian, sehingga sulit disangkal oleh pihak ketiga kecuali dapat dibuktikan kepalsuannya (Subekti, 2005).
+Akta-akta tersebut diatas menjamin tanggal kepastian, identitas para pihak, dan isi perjanjian, sehingga sulit disangkal oleh pihak ketiga kecuali dapat dibuktikan kepalsuannya (Subekti, 2005).
 ### Pengikatan Dengan Akta Dibawah Tangan (*Onderhandsche Akte*)
 Akta dibawah tangan adalah akta yang sengaja dibuat untuk pembuktian oleh para pihak tanpa bantuan pejabat umum. Berdasarkan Pasal 1874 KUHPerdata, akta ini hanya berupa tulisan yang ditandatangani oleh para pihak. Kekuatan pembuktiannya bergantung pada pengakuan tanda tangan oleh pihak yang mengingkarinya. Berikut jaminan yang umumnya dibuatkan akta dibawah tangan:
 - Penerapan pada harta lancar & benda bergerak: Pernyataan bahwa akta ini "umumnya dilakukan untuk harta lancar" perlu dipahami dengan batasan ketat dalam hukum positif saat ini.
 - Gadai: Berdasarkan Pasal 1151 KUHPerdata, persetujuan gadai boleh dibuktikan dengan segala alat bukti yang diperbolehkan bagi perikatan pokok (termasuk akta di bawah tangan atau lisan). Ini sering terjadi pada gadai saham (*pledge of shares*) atau gadai perhiasan di mana penguasaan fisik berpindah (*inbezitsstelling*).
 - Cessie sebagai Jaminan: Pengalihan piutang dagang (harta lancar) sering kali dilakukan dengan akta di bawah tangan, asalkan telah diberitahukan (*betekend*) kepada debitur sesuai Pasal 613 KUHPerdata.
 
-Untuk harta lancar berupa inventory (stok barang) bukan benda bergerak yang dikuasai debitur, tidak bisa menggunakan akta di bawah tangan karena harus menggunakan skema fidusia yang wajib Notariil. Penggunaan akta di bawah tangan untuk Fidusia mengakibatkan jaminan batal demi hukum (Satrio, 2002).
-### Analisis Studi Kasus "Kebatalan Jaminan Fidusia Akibat Akta Di Bawah Tangan"
-Untuk memperjelas risiko penggunaan akta dibawah tangan pada objek yang seharusnya menggunakan akta autentik, saya memilih kasus sengketa eksekusi kendaraan bermotor.
-#### Deskripsi Kasus
+Untuk harta lancar berupa inventory (stok barang) bukan benda bergerak yang dikuasai debitur, tidak bisa menggunakan akta di bawah tangan karena harus menggunakan skema fidusia yang wajib Notariil. Penggunaan akta di bawah tangan untuk Fidusia mengakibatkan jaminan batal demi hukum (Satrio, 2002). Untuk memperjelas risiko penggunaan akta dibawah tangan pada objek yang seharusnya menggunakan akta autentik, saya memilih kasus sengketa eksekusi kendaraan bermotor.
+#### Contoh Kasus "Kebatalan Jaminan Fidusia Akibat Akta Di Bawah Tangan"
 PT. Finance A (kreditur) memberikan pembiayaan pembelian 10 unit truk kepada CV. Logistik B (debitur). Untuk menghemat biaya Notaris, kedua belah pihak sepakat untuk menandatangani "Perjanjian Pembiayaan dan Penyerahan Hak Milik Secara Kepercayaan" hanya dengan akta dibawah tangan (bermaterai cukup), tanpa dibuatkan akta Notaris dan tanpa didaftarkan ke kantor pendaftaran fidusia. Setahun kemudian, CV. Logistik B mengalami kesulitan keuangan dan diputus pailit oleh pengadilan niaga. PT. Finance A mencoba menarik 10 unit truk tersebut dengan mengklaim bahwa truk itu adalah objek jaminan miliknya (kreditur separatis). Namun, kurator kepailitan menolak klaim tersebut dan memasukkan truk ke dalam boedel pailit umum.
 #### Analisis Hukum
 Posisi PT. Finance A dalam kasus ini sangat lemah dan tindakan kurator adalah benar secara hukum karea melanggar syarat formil dalam UU No. 42 Tahun 1999 Pasal 5 ayat (1) UU Jaminan Fidusia menyatakan secara tegas, "*Pembebanan Benda dengan Jaminan Fidusia dibuat dengan akta notaris dalam bahasa Indonesia dan merupakan akta Jaminan Fidusia*." Penggunaan akta dibawah tangan untuk objek fidusia (benda bergerak yang penguasaannya tetap pada debitur) melanggar syarat formil ini. Akibatnya, perjanjian jaminan fidusia tersebut dianggap tidak pernah lahir atau batal demi hukum (Bahsan, 2012). Gagalnya asas publisitas karena hanya menggunakan akta dibawah tangan, jaminan tersebut tidak bisa didaftarkan ke kantor fidusia sesuai Pasal 11 ayat 1 yang mewajibkan pendaftaran. Tanpa pendaftaran, Sertifikat Jaminan Fidusia tidak terbit. Tanpa sertifikat, tidak lahir Hak Kebendaan (*Zakelijk Recht*). Degradasi status kreditur dalam konsekuensi kepailitan) karena hak kebendaan fidusia tidak terbentuk, maka PT. Finance A kehilangan hak istimewanya (*droit de preference*). Dalam proses kepailitan CV. Logistik B, status PT. Finance A turun derajatnya dari kreditur separatis (yang didahulukan / pemegang jaminan) menjadi kreditur konkuren (kreditur biasa tanpa jaminan). PT. Finance A harus antri dengan kreditur-kreditur lain (seperti supplier ATK, katering, dll) untuk mendapatkan sisa hasil penjualan aset boedel pailit secara pari passu (proporsional), yang sering kali nilainya sangat kecil atau nol (Sjahdeini, 2016).
 
 Pengikatan jaminan di Indonesia menganut formalitas ketat. Meskipun gadai (dengan penguasaan fisik) masih memungkinkan penggunaan akta dibawah tangan, namun untuk jaminan fidusia dan hak tanggungan (tanpa penguasaan fisik) karena penggunaan akta autentik adalah syarat mutlak (*conditio sine qua non*). Kreditur yang mengabaikan syarat autentisitas demi efisiensi biaya, seperti dalam kasus di atas, berisiko kehilangan perlindungan hukum dan aset jaminannya saat debitur wanprestasi atau pailit.
 
+# <u>Klasifikasi Jaminan Dilihat dari Sifatnya</u>
+PIC
+
 # <u>Daftar Pustaka</u>
 Buku & Literatur Akademik:
-1. Badrulzaman, M. D. (2001). Kompilasi Hukum Jaminan. Bandung: Citra Aditya Bakti. (Karya otoritatif mengenai doktrin perdata jaminan).
+1. Badrulzaman, M. D. (2001). *Kompilasi Hukum Jaminan*. Bandung: Citra Aditya Bakti. (Karya otoritatif mengenai doktrin perdata jaminan).
 2. Bahsan, M. (2012). *Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia*. Jakarta: RajaGrafindo Persada.
-3. Hermansyah. (2011). Hukum Perbankan Nasional Indonesia. Jakarta: Kencana Prenada Media Group. (Analisis mengenai UU Perbankan).
+3. Hermansyah. (2011). *Hukum Perbankan Nasional Indonesia*. Jakarta: Kencana Prenada Media Group. (Analisis mengenai UU Perbankan).
 4. Isnaeni, M. (2016). *Pengantar Hukum Jaminan Kebendaan*. Surabaya: PT Revka Petra Media. (Analisis mendalam mengenai Droit de Preference).
 5. Salim H.S. (2014). *Perkembangan Hukum Jaminan di Indonesia*. Jakarta: RajaGrafindo Persada.
-6. Satrio, J. (2007). *Hukum Jaminan, Hak Jaminan Kebendaan*. Bandung: Citra Aditya Bakti.
-7. Sjahdeini, S. R. (2016). Kebebasan Berkontrak dan Perlindungan yang Seimbang Bagi Para Pihak dalam Perjanjian Kredit Bank. Jakarta: Pustaka Utama Grafiti.
-8. Sjahdeini, S. R. (2016). *Sejarah, Asas, dan Teori Hukum Kepailitan*. Jakarta: Prenadamedia Group.
-9. Sofwan, Sri Soedewi Masjchun. (2001). *Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan*. Yogyakarta: Liberty.
-10. Subekti. (2005). *Pokok-Pokok Hukum Perdata*. Jakarta: Intermasa. (Definisi dasar Hukum Kekayaan).
+6. Satrio, J. (2002). *Hukum Jaminan, Hak Jaminan Kebendaan, Hak Tanggungan*. Bandung: Citra Aditya Bakti. (Analisis mendalam mengenai syarat formil akta).
+7. Satrio, J. (2007). *Hukum Jaminan, Hak Jaminan Kebendaan*. Bandung: Citra Aditya Bakti.
+8. Sjahdeini, S. R. (2016). Kebebasan Berkontrak dan Perlindungan yang Seimbang Bagi Para Pihak dalam Perjanjian Kredit Bank. Jakarta: Pustaka Utama Grafiti.
+9. Sjahdeini, S. R. (2016). *Kebebasan Berkontrak dan Perlindungan yang Seimbang Bagi Para Pihak dalam Perjanjian Kredit Bank*. Jakarta: Pustaka Utama Grafiti.
+10. Sjahdeini, S. R. (2016). *Sejarah, Asas, dan Teori Hukum Kepailitan*. Jakarta: Prenadamedia Group.
+11. Sofwan, Sri Soedewi Masjchun. (2001). *Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan*. Yogyakarta: Liberty.
+12. Subekti. (2005). *Pokok-Pokok Hukum Perdata*. Jakarta: Intermasa. (Definisi dasar Hukum Kekayaan).
 
 Jurnal Ilmiah:
 1. Usanti, T. P., & Firyani, L. (2019). "Transformation of Security Rights in Indonesia: From Civil Code to National Law". Juridical Tribune, 9(2).
