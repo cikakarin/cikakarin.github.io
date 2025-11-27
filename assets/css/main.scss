@@ -40,4 +40,16 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
+
+   /* Custom Academic Style */
+.page__content p {
+  text-align: justify;
+  text-indent: 2.5em; /* 2.5em is a standard academic indent size */
+}
+
+/* Fix for Images and Titles so they don't indent */
+h1, h2, h3, h4, h5, h6, img, figure {
+  text-indent: 0;
+  text-align: left;
+}
 ;
