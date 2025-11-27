@@ -28,56 +28,33 @@ UU No. 42 Tahun 1999 (Fidusia): Mewajibkan adanya daftar benda yang menjadi obje
 Asas ini mewajibkan bahwa pembebanan hak jaminan atas benda tertentu (khususnya benda terdaftar) harus didaftarkan dalam register umum agar diketahui oleh pihak ketiga (masyarakat luas).<br>
 Tujuan utama publisitas adalah perlindungan hukum bagi pihak ketiga yang beritikad baik. Dengan pendaftaran, pihak ketiga dapat mengetahui status benda tersebut apakah sedang dijaminkan atau bersih (clean and clear). Publisitas juga merupakan syarat mutlak lahirnya hak kebendaan tersebut (syarat konstitutif) (Bahsan, 2012).<br>
 Regulasi di Indonesia:<br>
-
-Hak Tanggungan: Wajib didaftarkan di Kantor Pertanahan (BPN) untuk menerbitkan Sertifikat Hak Tanggungan (Pasal 13 UU No. 4 Tahun 1996).
-
-Fidusia: Wajib didaftarkan di Kantor Pendaftaran Fidusia untuk menerbitkan Sertifikat Jaminan Fidusia (Pasal 11 UU No. 42 Tahun 1999).
-
+Hak Tanggungan: Wajib didaftarkan di Kantor Pertanahan (BPN) untuk menerbitkan Sertifikat Hak Tanggungan (Pasal 13 UU No. 4 Tahun 1996).<br>
+Fidusia: Wajib didaftarkan di Kantor Pendaftaran Fidusia untuk menerbitkan Sertifikat Jaminan Fidusia (Pasal 11 UU No. 42 Tahun 1999).<br>
 Pengecualian: Untuk Gadai, asas publisitas tidak dilakukan lewat pendaftaran, melainkan lewat penguasaan fisik barang (inbezitstelling).
 
-4. Asas Inbezitstelling (Penyerahan Kekuasaan)
-Asas ini spesifik berlaku untuk lembaga jaminan Gadai, yang mensyaratkan perpindahan penguasaan fisik benda dari pemberi gadai (debitur) kepada penerima gadai (kreditur).
-
-Elaborasi Konsep: Keabsahan gadai bergantung pada siapa yang memegang bendanya. Jika benda jaminan dikembalikan atau tetap berada di tangan debitur, maka hak gadai tersebut gugur atau tidak sah. Hal ini berbeda dengan Fidusia atau Hak Tanggungan yang menggunakan konsep Constitutum Possessorium (benda tetap dipakai debitur) (Salim, 2014).
-
-Regulasi di Indonesia:
-
+# Asas Inbezitstelling (Penyerahan Kekuasaan)
+Asas ini spesifik berlaku untuk lembaga jaminan Gadai, yang mensyaratkan perpindahan penguasaan fisik benda dari pemberi gadai (debitur) kepada penerima gadai (kreditur). Keabsahan gadai bergantung pada siapa yang memegang bendanya. Jika benda jaminan dikembalikan atau tetap berada di tangan debitur, maka hak gadai tersebut gugur atau tidak sah. Hal ini berbeda dengan Fidusia atau Hak Tanggungan yang menggunakan konsep Constitutum Possessorium (benda tetap dipakai debitur) (Salim, 2014).<br>
+Regulasi di Indonesia:<br>
 Pasal 1150 & 1152 KUHPerdata: Menegaskan bahwa benda harus diserahkan kepada kreditur atau pihak ketiga yang disepakati, dan hak gadai tidak ada jika benda itu kembali dalam kekuasaan debitur.
 
-5. Asas Pemisahan Horizontal (Horizontale Scheiding)
-Asas ini berakar dari Hukum Adat Indonesia yang diadopsi ke dalam hukum tanah nasional, yang memandang tanah terpisah dari segala sesuatu yang melekat di atasnya (bangunan atau tanaman).
-
-Elaborasi Konsep: Berbeda dengan asas hukum Barat (Vertical Accession) yang menganggap bangunan adalah bagian dari tanah, asas pemisahan horizontal menyatakan bahwa pemilik tanah dan pemilik bangunan bisa merupakan dua subjek hukum yang berbeda. Implikasinya dalam hukum jaminan adalah: seseorang dapat menjaminkan bangunannya saja (misal secara Fidusia jika bangunan di atas tanah sewa) atau menjaminkan tanahnya saja tanpa bangunan (Harsono, 2008).
-
-Regulasi di Indonesia:
-
-Undang-Undang Pokok Agraria (UUPA) No. 5 Tahun 1960: Mengadopsi hukum adat sebagai dasar, yang mengakui pemisahan hak atas tanah dengan hak atas benda di atasnya.
-
+# Asas Pemisahan Horizontal (Horizontale Scheiding)
+Asas ini berakar dari Hukum Adat Indonesia yang diadopsi ke dalam hukum tanah nasional, yang memandang tanah terpisah dari segala sesuatu yang melekat di atasnya (bangunan atau tanaman). Berbeda dengan asas hukum Barat (Vertical Accession) yang menganggap bangunan adalah bagian dari tanah, asas pemisahan horizontal menyatakan bahwa pemilik tanah dan pemilik bangunan bisa merupakan dua subjek hukum yang berbeda. Implikasinya dalam hukum jaminan adalah: seseorang dapat menjaminkan bangunannya saja (misal secara Fidusia jika bangunan di atas tanah sewa) atau menjaminkan tanahnya saja tanpa bangunan (Harsono, 2008).<br>
+Regulasi di Indonesia:<br>
+Undang-Undang Pokok Agraria (UUPA) No. 5 Tahun 1960: Mengadopsi hukum adat sebagai dasar, yang mengakui pemisahan hak atas tanah dengan hak atas benda di atasnya.<br>
 UU No. 4 Tahun 1996 (Hak Tanggungan): Walaupun menganut pemisahan horizontal, UU ini memungkinkan pembebanan tanah berikut bangunan dan tanaman di atasnya (Pasal 4 ayat 2) asalkan bangunan tersebut milik pemegang hak atas tanah, demi kepraktisan eksekusi.
 
-Daftar Pustaka (Bibliography)
-Buku & Literatur Akademik:
-
-Bahsan, M. (2012). Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia. Jakarta: RajaGrafindo Persada.
-
-Harsono, Boedi. (2008). Hukum Agraria Indonesia: Sejarah Pembentukan Undang-Undang Pokok Agraria, Isi dan Pelaksanaannya. Jakarta: Djambatan.
-
-Salim H.S. (2014). Perkembangan Hukum Jaminan di Indonesia. Jakarta: RajaGrafindo Persada.
-
-Satrio, J. (2002). Hukum Jaminan, Hak Jaminan Kebendaan. Bandung: Citra Aditya Bakti.
-
-Sofwan, Sri Soedewi Masjchun. (2001). Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan. Yogyakarta: Liberty.
-
-Peraturan Perundang-undangan:
-
-Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).
-
-Undang-Undang No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria.
-
-Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan.
-
-Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.
-
+## Daftar Pustaka
+Buku & Literatur Akademik:<br>
+Bahsan, M. (2012). Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia. Jakarta: RajaGrafindo Persada.<br>
+Harsono, Boedi. (2008). Hukum Agraria Indonesia: Sejarah Pembentukan Undang-Undang Pokok Agraria, Isi dan Pelaksanaannya. Jakarta: Djambatan.<br>
+Salim H.S. (2014). Perkembangan Hukum Jaminan di Indonesia. Jakarta: RajaGrafindo Persada.<br>
+Satrio, J. (2002). Hukum Jaminan, Hak Jaminan Kebendaan. Bandung: Citra Aditya Bakti.<br>
+Sofwan, Sri Soedewi Masjchun. (2001). Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan. Yogyakarta: Liberty.<br>
+Peraturan Perundang-undangan:<br>
+Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).<br>
+Undang-Undang No. 5 Tahun 1960 tentang Peraturan Dasar Pokok-Pokok Agraria.<br>
+Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan.<br>
+Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.<br>
 
 ### Cara Mengutip (Citation)
 > **Cika Karin**. (2025). *"Asas-Asas Hukum Jaminan".* Academic Law. Diakses dari: https://cikakarin.com/posts/2025/11/asas-hukum-jaminan/
