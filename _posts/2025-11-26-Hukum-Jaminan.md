@@ -89,13 +89,13 @@ Konsekuensi dari sifat "dapat dipertahankan terhadap setiap orang" adalah kredit
 # Unsur Jaminan
 <figure style="text-align: center;">
   <img src="/images/unsur-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 2: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+  <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
 
 # Unsur Hukum Jaminan
 <figure style="text-align: center;">
   <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+  <figcaption>Figure 2: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
 
 # Sumber Hukum
