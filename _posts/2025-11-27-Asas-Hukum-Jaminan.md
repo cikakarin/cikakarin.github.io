@@ -29,12 +29,12 @@ Regulasi di Indonesia:<br>
 - Fidusia: Wajib didaftarkan di Kantor Pendaftaran Fidusia untuk menerbitkan Sertifikat Jaminan Fidusia (Pasal 11 UU No. 42 Tahun 1999).
 - Pengecualian: Untuk Gadai, asas publisitas tidak dilakukan lewat pendaftaran, melainkan lewat penguasaan fisik barang (inbezitstelling).
 
-# Asas Inbezitstelling (Penyerahan Kekuasaan)
+# Asas *Inbezitstelling* (Penyerahan Kekuasaan)
 Asas ini spesifik berlaku untuk lembaga jaminan Gadai, yang mensyaratkan perpindahan penguasaan fisik benda dari pemberi gadai (debitur) kepada penerima gadai (kreditur). Keabsahan gadai bergantung pada siapa yang memegang bendanya. Jika benda jaminan dikembalikan atau tetap berada di tangan debitur, maka hak gadai tersebut gugur atau tidak sah. Hal ini berbeda dengan Fidusia atau Hak Tanggungan yang menggunakan konsep Constitutum Possessorium (benda tetap dipakai debitur) (Salim, 2014).<br>
 Regulasi di Indonesia:<br>
 - Pasal 1150 & 1152 KUHPerdata: Menegaskan bahwa benda harus diserahkan kepada kreditur atau pihak ketiga yang disepakati, dan hak gadai tidak ada jika benda itu kembali dalam kekuasaan debitur.
 
-# Asas Pemisahan Horizontal (Horizontale Scheiding)
+# Asas Pemisahan Horizontal (*Horizontale Scheiding*)
 Asas ini berakar dari Hukum Adat Indonesia yang diadopsi ke dalam hukum tanah nasional, yang memandang tanah terpisah dari segala sesuatu yang melekat di atasnya (bangunan atau tanaman). Berbeda dengan asas hukum Barat (Vertical Accession) yang menganggap bangunan adalah bagian dari tanah, asas pemisahan horizontal menyatakan bahwa pemilik tanah dan pemilik bangunan bisa merupakan dua subjek hukum yang berbeda. Implikasinya dalam hukum jaminan adalah: seseorang dapat menjaminkan bangunannya saja (misal secara Fidusia jika bangunan di atas tanah sewa) atau menjaminkan tanahnya saja tanpa bangunan (Harsono, 2008).<br>
 Regulasi di Indonesia:<br>
 - Undang-Undang Pokok Agraria (UUPA) No. 5 Tahun 1960: Mengadopsi hukum adat sebagai dasar, yang mengakui pemisahan hak atas tanah dengan hak atas benda di atasnya.
