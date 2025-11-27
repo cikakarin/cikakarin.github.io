@@ -10,7 +10,7 @@ tags:
 author: "Cika  Karin, d.B.A., d.M.C., B.A., B.A., S.H."
 excerpt: "Artikel ini membahas secara mendalam tentang prinsip-prinsip Hukum Jaminan dengan studi kasus putusan pengadilan."
 ---
-Hukum Jaminan di Indonesia dibangun di atas fondasi keseimbangan kepentingan antara perlindungan bagi Kreditur (Pemberi Pinjaman) dan keadilan bagi Debitur (Peminjam). Berikut adalah bedah konsep berdasarkan teks yang Anda berikan:
+Hukum Jaminan di Indonesia dibangun di atas fondasi keseimbangan kepentingan antara perlindungan bagi Kreditur (Pemberi Pinjaman) dan keadilan bagi Debitur (Peminjam). Berikut adalah bedah konsep prinsip-prinsip hukum jaminan:
 # Kedudukan Harta Peminjam (*Schuld & Haftung*)
 Dasar hukum utama perlindungan kreditur di Indonesia adalah Pasal 1131 Kitab Undang-Undang Hukum Perdata (KUHPerdata). Pasal ini menciptakan konsep Jaminan Umum. Secara otomatis, saat seseorang berutang, hukum meletakkan sita umum atas seluruh kekayaannya. Harta yang ada merupakan Aset yang dimiliki saat akad kredit ditandatangani. Sedangkan, harta yang akan ada merupakan aset yang baru dibeli debitur di masa depan setelah kredit berjalan. Prinsip ini menegaskan bahwa tidak ada seorang pun yang bisa lepas dari tanggung jawab membayar utang selama ia memiliki aset. Dalam doktrin, ini disebut hubungan antara Schuld (kewajiban berprestasi) dan Haftung (pertanggungjawaban harta kekayaan) (Satrio, 2007).
 # Kedudukan Pemberi Pinjaman (*Pari Passu vs. Preference*)
