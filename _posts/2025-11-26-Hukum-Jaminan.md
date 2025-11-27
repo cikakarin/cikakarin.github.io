@@ -7,8 +7,8 @@ tags:
   - Hukum Jaminan
   - Hukum Perdata
 author: "Cika  Karin, d.B.A., d.M.C., B.A., B.A., S.H."
+excerpt: "Artikel ini membahas tentang prinsip dasar namun mendalam mengenai Hukum Jaminan."
 ---
-
 # Pengertian
 **Jaminan (*Zekerheid*)**
 
