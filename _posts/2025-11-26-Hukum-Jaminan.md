@@ -7,8 +7,6 @@ tags:
   - Hukum Jaminan
   - Hukum Perdata
 author: "Cika  Karin, d.B.A., d.M.C., B.A., B.A., S.H."
-toc: true
-toc_label: "Table of Contents"
 ---
 
 # Pengertian
