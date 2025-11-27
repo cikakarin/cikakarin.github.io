@@ -85,43 +85,45 @@ Konsekuensi dari sifat "dapat dipertahankan terhadap setiap orang" adalah kredit
 **M. Bahsan** - Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan penjaminan dalam rangka utang piutang (pinjaman uang) yang terdapat dalam berbagai peraturan perundang-undangan yang berlaku saat ini.
 # Unsur Jaminan
 <img src="/images/unsur-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+  <figcaption>Figure 1: Unsur Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
+
 # Unsur Hukum Jaminan
 <figure style="text-align: center;">
   <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+  <figcaption>Figure 2: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
+
 # Sumber Hukum
 <figure style="text-align: center;">
   <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 1: Sumber Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+  <figcaption>Figure 3: Sumber Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
 
 
 # Daftar Pustaka
-Buku & Literatur Akademik:<br>
-Badrulzaman, M. D. (2001). Kompilasi Hukum Jaminan. Bandung: Citra Aditya Bakti. (Karya otoritatif mengenai doktrin perdata jaminan).<br>
-Bahsan, M. (2012). *Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia*. Jakarta: RajaGrafindo Persada.<br>
-Hermansyah. (2011). Hukum Perbankan Nasional Indonesia. Jakarta: Kencana Prenada Media Group. (Analisis mengenai UU Perbankan).<br>
-Isnaeni, M. (2016). *Pengantar Hukum Jaminan Kebendaan*. Surabaya: PT Revka Petra Media. (Analisis mendalam mengenai Droit de Preference).<br>
-Salim H.S. (2014). *Perkembangan Hukum Jaminan di Indonesia*. Jakarta: RajaGrafindo Persada.<br>
-Satrio, J. (2007). *Hukum Jaminan, Hak Jaminan Kebendaan*. Bandung: Citra Aditya Bakti.<br>
-Sjahdeini, S. R. (2016). Kebebasan Berkontrak dan Perlindungan yang Seimbang Bagi Para Pihak dalam Perjanjian Kredit Bank. Jakarta: Pustaka Utama Grafiti.<br>
-Sjahdeini, S. R. (2016). *Sejarah, Asas, dan Teori Hukum Kepailitan*. Jakarta: Prenadamedia Group.<br>
-Sofwan, Sri Soedewi Masjchun. (2001). *Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan*. Yogyakarta: Liberty.<br>
-Subekti. (2005). *Pokok-Pokok Hukum Perdata*. Jakarta: Intermasa. (Definisi dasar Hukum Kekayaan).
+Buku & Literatur Akademik:
+1. Badrulzaman, M. D. (2001). Kompilasi Hukum Jaminan. Bandung: Citra Aditya Bakti. (Karya otoritatif mengenai doktrin perdata jaminan).
+2. Bahsan, M. (2012). *Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia*. Jakarta: RajaGrafindo Persada.
+3. Hermansyah. (2011). Hukum Perbankan Nasional Indonesia. Jakarta: Kencana Prenada Media Group. (Analisis mengenai UU Perbankan).
+4. Isnaeni, M. (2016). *Pengantar Hukum Jaminan Kebendaan*. Surabaya: PT Revka Petra Media. (Analisis mendalam mengenai Droit de Preference).
+5. Salim H.S. (2014). *Perkembangan Hukum Jaminan di Indonesia*. Jakarta: RajaGrafindo Persada.
+6. Satrio, J. (2007). *Hukum Jaminan, Hak Jaminan Kebendaan*. Bandung: Citra Aditya Bakti.
+7. Sjahdeini, S. R. (2016). Kebebasan Berkontrak dan Perlindungan yang Seimbang Bagi Para Pihak dalam Perjanjian Kredit Bank. Jakarta: Pustaka Utama Grafiti.
+8. Sjahdeini, S. R. (2016). *Sejarah, Asas, dan Teori Hukum Kepailitan*. Jakarta: Prenadamedia Group.
+9. Sofwan, Sri Soedewi Masjchun. (2001). *Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan*. Yogyakarta: Liberty.
+10. Subekti. (2005). *Pokok-Pokok Hukum Perdata*. Jakarta: Intermasa. (Definisi dasar Hukum Kekayaan).
 
-Jurnal Ilmiah:<br>
-Usanti, T. P., & Firyani, L. (2019). "Transformation of Security Rights in Indonesia: From Civil Code to National Law". Juridical Tribune, 9(2).<br>
+Jurnal Ilmiah:
+1. Usanti, T. P., & Firyani, L. (2019). "Transformation of Security Rights in Indonesia: From Civil Code to National Law". Juridical Tribune, 9(2).
 
-Peraturan Perundang-undangan:<br>
-Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).<br>
-Surat Keputusan Direksi Bank Indonesia No. 23/69/KEP/DIR Tahun 1991 tentang Jaminan Pemberian Kredit (Sebagai referensi historis pemahaman jaminan).<br>
-Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan atas Tanah Beserta Benda-Benda yang Berkaitan dengan Tanah.<br>
-Undang-Undang No. 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan.<br>
-Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.<br>
-Undang-Undang No. 1 Tahun 2009 tentang Penerbangan.<br>
+Peraturan Perundang-undangan:
+1. Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).
+2. Surat Keputusan Direksi Bank Indonesia No. 23/69/KEP/DIR Tahun 1991 tentang Jaminan Pemberian Kredit (Sebagai referensi historis pemahaman jaminan).
+3. Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan atas Tanah Beserta Benda-Benda yang Berkaitan dengan Tanah.
+4. Undang-Undang No. 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan.
+5. Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.
+6. Undang-Undang No. 1 Tahun 2009 tentang Penerbangan.<br>
 
 ### Cara Mengutip (Citation)
 > **Cika Karin**. (2025). *"Hukum Jaminan."* Academic Law. Diakses dari: https://cikakarin.com/posts/2025/11/hukum-jaminan/
