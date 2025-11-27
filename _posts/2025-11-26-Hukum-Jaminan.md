@@ -73,38 +73,30 @@ Hukum jaminan adalah peraturan hukum yang mengatur jaminan-jaminan piutang seora
 **M. Bahsan**<br>
 Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan penjaminan dalam rangka utang piutang (pinjaman uang) yang terdapat dalam berbagai peraturan perundang-undangan yang berlaku saat ini.<br>
 
+# Unsur Hukum Jaminan
+<figure style="text-align: center;">
+  <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 1: Unsur Hukum Jaminan</figcaption>
+</figure>
+
 ## Referensi (Bibliography)
-Buku & Literatur Akademik:
+Buku & Literatur Akademik:<br>
+Bahsan, M. (2012). *Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia*. Jakarta: RajaGrafindo Persada.<br>
+Isnaeni, M. (2016). *Pengantar Hukum Jaminan Kebendaan*. Surabaya: PT Revka Petra Media. (Analisis mendalam mengenai Droit de Preference).<br>
+Salim H.S. (2014). *Perkembangan Hukum Jaminan di Indonesia*. Jakarta: RajaGrafindo Persada.<br>
+Satrio, J. (2007). *Hukum Jaminan, Hak Jaminan Kebendaan*. Bandung: Citra Aditya Bakti.<br>
+Sjahdeini, S. R. (2016). *Sejarah, Asas, dan Teori Hukum Kepailitan*. Jakarta: Prenadamedia Group.<br>
+Sofwan, Sri Soedewi Masjchun. (2001). *Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan*. Yogyakarta: Liberty.<br>
+Subekti. (2005). *Pokok-Pokok Hukum Perdata*. Jakarta: Intermasa. (Definisi dasar Hukum Kekayaan).<br>
 
-Bahsan, M. (2012). *Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia*. Jakarta: RajaGrafindo Persada.
+Jurnal Ilmiah:<br>
+Usanti, T. P., & Firyani, L. (2019). "Transformation of Security Rights in Indonesia: From Civil Code to National Law". Juridical Tribune, 9(2).<br>
 
-Isnaeni, M. (2016). *Pengantar Hukum Jaminan Kebendaan*. Surabaya: PT Revka Petra Media. (Analisis mendalam mengenai Droit de Preference).
-
-Salim H.S. (2014). *Perkembangan Hukum Jaminan di Indonesia*. Jakarta: RajaGrafindo Persada.
-
-Satrio, J. (2007). *Hukum Jaminan, Hak Jaminan Kebendaan*. Bandung: Citra Aditya Bakti.
-
-Sjahdeini, S. R. (2016). *Sejarah, Asas, dan Teori Hukum Kepailitan*. Jakarta: Prenadamedia Group.
-
-Sofwan, Sri Soedewi Masjchun. (2001). *Hukum Jaminan di Indonesia: Pokok-Pokok Hukum Jaminan dan Jaminan Perorangan*. Yogyakarta: Liberty.
-
-Subekti. (2005). *Pokok-Pokok Hukum Perdata*. Jakarta: Intermasa. (Definisi dasar Hukum Kekayaan).
-
-Jurnal Ilmiah:
-
-Usanti, T. P., & Firyani, L. (2019). "Transformation of Security Rights in Indonesia: From Civil Code to National Law". Juridical Tribune, 9(2).
-
-Peraturan Perundang-undangan:
-
-Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).
-
-Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan atas Tanah Beserta Benda-Benda yang Berkaitan dengan Tanah.
-
-Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.
-
-Undang-Undang No. 1 Tahun 2009 tentang Penerbangan.
-
-
+Peraturan Perundang-undangan:<br>
+Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).<br>
+Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan atas Tanah Beserta Benda-Benda yang Berkaitan dengan Tanah.<br>
+Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.<br>
+Undang-Undang No. 1 Tahun 2009 tentang Penerbangan.<br>
 ***
 
 ### Cara Mengutip (Citation)
