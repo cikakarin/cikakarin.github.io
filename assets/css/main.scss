@@ -41,3 +41,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* =======================================
+   PERMANENT BOOK STYLE FOR CIKAKARIN
+   ======================================= */
+
+/* 1. Make all paragraphs Justified and Indented */
+.page__content p {
+  text-align: justify !important;
+  text-indent: 40px !important;
+}
+
+/* 2. Fix for Images so they don't get pushed to the side */
+.page__content p img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* 3. Ensure Headings (H1, H2) stay on the left (No Indent) */
+.page__content h1, .page__content h2, .page__content h3 {
+  text-indent: 0px !important;
+  text-align: left !important;
+}
