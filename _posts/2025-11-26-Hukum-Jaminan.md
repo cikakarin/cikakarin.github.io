@@ -84,7 +84,9 @@ Konsekuensi dari sifat "dapat dipertahankan terhadap setiap orang" adalah kredit
 **J. Satrio** - Hukum jaminan adalah peraturan hukum yang mengatur jaminan-jaminan piutang seorang kreditur terhadap debitur.<br>
 **M. Bahsan** - Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan penjaminan dalam rangka utang piutang (pinjaman uang) yang terdapat dalam berbagai peraturan perundang-undangan yang berlaku saat ini.
 # Unsur Jaminan
-
+<img src="/images/unsur-jaminan.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+</figure>
 # Unsur Hukum Jaminan
 <figure style="text-align: center;">
   <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
