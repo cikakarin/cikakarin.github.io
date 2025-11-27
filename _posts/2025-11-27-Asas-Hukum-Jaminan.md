@@ -10,25 +10,25 @@ tags:
 author: "Cika  Karin, d.B.A., d.M.C., B.A., B.A., S.H."
 excerpt: "Artikel ini membahas tentang asas-asas mengenai Hukum Jaminan dengan studi kasus."
 ---
-# <u>Asas Tidak Dapat Dibagi-bagi (*Onsplitsbaarheid* / *Indivisibility*)</u>
+# <u>Asas Tidak Dapat Dibagi-bagi (<i>Onsplitsbaarheid</i> / <i>Indivisibility</i>)</u>
 Asas ini menegaskan keutuhan hubungan antara utang dan objek jaminan. Hak jaminan membebani objek jaminan secara total untuk menjamin pelunasan utang secara keseluruhan. Konsekuensinya, pelunasan sebagian utang (partial payment) oleh debitur tidak secara otomatis membebaskan sebagian dari benda jaminan. Beban jaminan baru akan hapus sepenuhnya jika utang telah lunas 100% (Satrio, 2007). Berikut regulasi yang mengatur Asas Tidak Dapat Dibagi-bagi:
 - Pasal 1160 KUHPerdata (Gadai) yang menyatakan, "Gadai itu tidak dapat dibagi-bagi..."
 - Pasal 4 UU No. 4 Tahun 1996 (Hak Tanggungan) yanng menyatakan hak tanggungan membebani hak atas tanah secara utuh.
 
 Pengecualian dimungkinkan adanya *Roya Parsial* (penghapusan sebagian) jika diperjanjikan sebelumnya, biasanya dalam proyek perumahan di mana satu sertifikat induk dipecah menjadi kavling-kavling (Pasal 2 ayat 2 UU Hak Tanggungan).
-# <u>Asas Spesialitas (*Specialiteit*)</u>
+# <u>Asas Spesialitas (<i>Specialiteit</i>)</u>
 Asas ini berkaitan dengan kepastian identitas objek jaminan. Dalam akta pembebanan jaminan, benda yang dijaminkan harus dideskripsikan secara spesifik, terperinci, dan jelas identitasnya (letak, luas, batas, nomor seri/rangka). Tidak diperbolehkan menjaminkan "seluruh harta kekayaan" secara umum tanpa rincian (J. Satrio, 2002). Tujuannya adalah agar eksekusi mudah dilakukan dan pihak ketiga mengetahui aset mana yang terbeban. Berikut regulasi yang mengatur Asas Specialitas:
 - Pasal 1174 KUHPerdata: Hipotek hanya atas benda yang ditunjuk secara khusus.
 - Pasal 11 ayat (1) huruf e UU Hak Tanggungan: Dalam Akta Pemberian Hak Tanggungan (APHT) wajib dicantumkan uraian jelas mengenai objek Hak Tanggungan.
 
-# <u>Asas Publisitas (*Publiciteit*)</u>
+# <u>Asas Publisitas (<i>Publiciteit</i>)</u>
 Asas ini mensyaratkan transparansi status hukum benda jaminan kepada publik. Hak jaminan kebendaan (kecuali Gadai) wajib didaftarkan di register umum. Hal ini merupakan syarat konstitutif (syarat mutlak lahirnya hak). Tujuannya adalah memberi peringatan (warning) kepada pihak ketiga (calon pembeli atau kreditur lain) bahwa benda tersebut sedang "tidak bebas" karena dijadikan agunan (Bahsan, 2012). Berikut regulasi yang mengatur Asas Publisitas:
 - Pasal 13 UU Hak Tanggungan: Wajib didaftarkan di Kantor Pertanahan (BPN).
 - Pasal 11 UU No. 42 Tahun 1999 (Jaminan Fidusia): Wajib didaftarkan di Kantor Pendaftaran Fidusia.
 
-# <u>Asas *Inbezitsstelling* (Pemisahan Penguasaan)</u>
+# <u>Asas <i>Inbezitsstelling</i> (Pemisahan Penguasaan)</u>
 Asas ini adalah karakteristik unik dari lembaga jaminan gadai. Keabsahan gadai bergantung pada perpindahan penguasaan fisik benda (*bezit*) dari debitur (pemberi gadai) kepada kreditur (penerima gadai) atau pihak ketiga yang disepakati. Jika benda kembali ke tangan debitur, maka hak gadai tersebut gugur atau hapus demi hukum (Sofwan, 2001). Ini kebalikan dari fidusia dan hak tanggungan yang bersifat *constitutum possessorium* (benda tetap pada debitur). Regulasi yang mengatur Asas Pemisahan Penguasaan ini adalah Pasal 1150 & 1152 KUHPerdata: Gadai tidak sah jika benda dibiarkan tetap dalam kekuasaan debitur.
-# <u>Asas Pemisahan Horizontal (*Horizontale Scheiding*)</u>
+# <u>Asas Pemisahan Horizontal (<i>Horizontale Scheiding</i>)</u>
 Asas ini berakar dari hukum adat yang diadopsi ke dalam hukum agraria nasional. Hukum Indonesia memandang tanah terpisah secara hukum dari benda-benda yang melekat di atasnya (bangunan / tanaman). Pemilik tanah belum tentu pemilik bangunan. Seseorang bisa menjaminkan tanahnya saja (hak tanggungan) tanpa bangunan, atau menjaminkan bangunannya saja (fidusia) jika ia menyewa tanah orang lain (Harsono, 2008). Berikut regulasi yang mengatur Asas Pemisahan Horizontal:
 - UUPA (UU No. 5 Tahun 1960): Landasan pemisahan hak.
 - Pasal 4 ayat (2) UU Hak Tanggungan: Meskipun terpisah, UU ini memungkinkan pembebanan tanah berikut bangunan secara bersamaan demi kepraktisan eksekusi, asalkan bangunan itu milik pemegang hak atas tanah.
