@@ -11,21 +11,26 @@ excerpt: "Artikel ini membahas tentang teori dasar namun mendalam mengenai Hukum
 ---
 # Pengertian
 ### Jaminan (*Zekerheid*)
-Secara terminologis, Jaminan atau <i>Zekerheid</i> (Belanda) merujuk pada "kemampuan" atau "objek" dari kekayaan debitur yang menjadi sandaran pelunasan utang. Dalam doktrin hukum perdata, zekerheid adalah jaring pengaman materiil yang memberikan kenyamanan bagi kreditur (Satrio, 2007). Di Indonesia, konsep <i>zekerheid</i> dibagi menjadi dua kategori berdasarkan regulasi:<br>
-Jaminan Umum: Berdasarkan Pasal 1131 Kitab Undang-Undang Hukum Perdata (KUHPerdata), seluruh harta benda debitur (bergerak/tidak bergerak, yang ada/akan ada) secara otomatis menjadi jaminan (<i>zekerheid</i>) bagi seluruh perikatannya.<br>
-Jaminan Khusus: Objek tertentu yang disisihkan secara spesifik untuk kreditur tertentu melalui perjanjian ikutan (accessoir), seperti tanah atau kendaraan (Sofwan, 2001).<br>
+Secara terminologis, Jaminan atau <i>Zekerheid</i> (Belanda) merujuk pada "kemampuan" atau "objek" dari kekayaan debitur yang menjadi sandaran pelunasan utang. Dalam doktrin hukum perdata, zekerheid adalah jaring pengaman materiil yang memberikan kenyamanan bagi kreditur (Satrio, 2007). Di Indonesia, konsep <i>zekerheid</i> dibagi menjadi dua kategori berdasarkan regulasi:
+- Jaminan Umum: Berdasarkan Pasal 1131 Kitab Undang-Undang Hukum Perdata (KUHPerdata), seluruh harta benda debitur (bergerak/tidak bergerak, yang ada/akan ada) secara otomatis menjadi jaminan (<i>zekerheid</i>) bagi seluruh perikatannya.
+- Jaminan Khusus: Objek tertentu yang disisihkan secara spesifik untuk kreditur tertentu melalui perjanjian ikutan (accessoir), seperti tanah atau kendaraan (Sofwan, 2001).
+
 #### Perspektif Kebahasaan (KBBI): Jaminan sebagai Konsep Luas
 Definisi Kamus Besar Bahasa Indonesia (KBBI) yang menyebutkan jaminan sebagai "tanggungan" atau "garansi" menyoroti sifat ganda dari jaminan. Secara semantik, definisi ini mencakup dua dimensi:
 - Dimensi Materiil: "Tanggungan atas pinjaman" mengacu pada Jaminan Kebendaan (Real Guarantee/ Zakelijke Zekerheidsrechten), yaitu aset fisik yang diserahkan.
 - Dimensi Immaterial: "Janji seseorang" mengacu pada Jaminan Perorangan (Personal Guarantee / Borgtocht). Dalam konteks ini, jaminan bukan hanya benda, melainkan juga "reputasi" atau kesanggupan moral untuk menanggung kewajiban jika debitur utama gagal (Salim, 2014).<br>
+
 #### Perspektif Psikologis-Manajerial (SK Direksi BI No 23/KEP/DIR 1991)
 Definisi ini menarik karena mendefinisikan jaminan sebagai "Keyakinan". Ini menggeser fokus dari objek (benda) ke subjek (psikologis kreditur). Dalam sejarah regulasi perbankan Indonesia, definisi ini menegaskan bahwa jaminan utama pemberian kredit bukanlah tanah atau bangunan, melainkan kelayakan usaha (feasibility). Analisis: "Keyakinan atas kesanggupan debitur" diperoleh dari analisis Cash Flow dan karakter debitur (prinsip 5C: Character, Capacity, Capital, Collateral, Condition). Benda jaminan fisik (seperti sertifikat tanah) hanyalah "jalan keluar kedua" (second way out) jika keyakinan tersebut meleset. Jadi, usaha yang prospektif itu sendiri adalah jaminan (Sjahdeini, 2016).<br>
+
 #### Perspektif Yuridis-Positif (UU Perbankan)
 Definisi dalam UU Perbankan (UU No. 7 Tahun 1992 sebagaimana diubah dengan UU No. 10 Tahun 1998) memperkenalkan istilah teknis "Agunan" untuk membedakannya dengan "Jaminan" dalam arti luas. Pasal 1 angka 23 UU No. 10 Tahun 1998 mendefinisikan Agunan sebagai "Jaminan Material". Undang-undang ini memisahkan dua konsep:
 - Jaminan Pokok: Adalah barang-barang, proyek, atau hak tagih yang dibiayai dengan kredit tersebut. Jadi, objek yang dibeli dengan uang pinjaman adalah jaminan utamanya.
 - Jaminan Tambahan (Agunan): Adalah aset lain milik debitur yang tidak berkaitan langsung dengan objek pembiayaan, yang diserahkan jika jaminan pokok dinilai tidak cukup. Ketentuan ini menegaskan prinsip kehati-hatian (prudential banking principle) bahwa bank tidak boleh memberikan kredit tanpa agunan yang memadai (Hermansyah, 2011).<br>
+
 #### Perspektif Doktrin Hukum Perdata (Mariam Darus Badrulzaman)
 Definisi Prof. Mariam menekankan pada Subjek Pemberi Jaminan dan sifat Accessoir. Poin krusial dari definisi ini adalah frasa "dan/atau pihak ketiga". Ini menegaskan bahwa dalam hukum Indonesia, jaminan tidak harus berasal dari harta debitur sendiri. Penjamin Pihak Ketiga: Seorang Ayah bisa menjaminkan tanahnya untuk utang anaknya, atau Direktur menjaminkan aset pribadinya untuk utang PT. Dalam praktik hukum jaminan (Hak Tanggungan/Fidusia), pihak ketiga ini disebut sebagai Pemberi Jaminan yang ikut menandatangani akta namun tidak berstatus sebagai debitur utama. Sifat Accessoir: Jaminan lahir karena adanya "perikatan" (perjanjian utang). Jika utang lunas, demi hukum jaminan hapus (Badrulzaman, 2001).<br>
+
 #### Perspektif Praktis (M. Bahsan)
 Definisi M. Bahsan menggunakan frasa "Segala Sesuatu", yang menonjolkan aspek Nilai Ekonomi (Economic Value). Definisi ini sangat pragmatis. Bagi kreditur, bentuk fisik benda tidak sepenting "kemudahan benda itu diuangkan" (marketability). "Segala sesuatu" menyiratkan bahwa objek jaminan terus berkembang seiring kemajuan ekonomi. Dulu, jaminan hanya tanah (Hipotek). Kini, "segala sesuatu" bisa berupa saham (stock), tagihan (receivables), hak kekayaan intelektual (HAKI), hingga resi gudang. Syarat mutlaknya adalah benda tersebut dapat dinilai dengan uang dan dapat dipindahtangankan (Bahsan, 2012).<br>
 
