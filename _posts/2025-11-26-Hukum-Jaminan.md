@@ -95,7 +95,7 @@ Konsekuensi dari sifat "dapat dipertahankan terhadap setiap orang" adalah kredit
 # Unsur Hukum Jaminan
 <figure style="text-align: center;">
   <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 2: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+  <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
 
 # Sumber Hukum
@@ -126,7 +126,8 @@ Peraturan Perundang-undangan:
 3. Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan atas Tanah Beserta Benda-Benda yang Berkaitan dengan Tanah.
 4. Undang-Undang No. 10 Tahun 1998 tentang Perubahan atas Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan.
 5. Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.
-6. Undang-Undang No. 1 Tahun 2009 tentang Penerbangan.<br>
+6. Undang-Undang No. 1 Tahun 2009 tentang Penerbangan.
+
 ----
 ### Cara Mengutip (Citation)
 > **Cika Karin**. (2025). *"Hukum Jaminan."* Academic Law. Diakses dari: https://cikakarin.com/posts/2025/11/hukum-jaminan/
