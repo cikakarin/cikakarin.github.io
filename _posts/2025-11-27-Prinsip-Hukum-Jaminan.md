@@ -36,8 +36,10 @@ Kasus ini melanggar Pasal 12 UU No. 4 Tahun 1996 yang berbunyi, "Janji yang memb
 Seharusnya, jika B ingin haknya terlindungi, ia harus membebankan Hak Tanggungan pada tanah A. Jika A wanprestasi, B harus mengajukan lelang eksekusi (Pasal 6 UU Hak Tanggungan) atau melalui fiat eksekusi pengadilan. B tidak boleh langsung mengklaim tanah itu sebagai miliknya (Suyatno, 2018).<br>
 4.	Konsekuensi Hukum<br>
 Sertifikat yang sudah dibalik nama ke atas nama B dinyatakan tidak sah oleh pengadilan, dan status tanah kembali menjadi milik A. Hubungan hukum kembali ke status awal: A tetap berutang uang kepada B dan wajib membayarnya, namun tanah tidak boleh diambil alih begitu saja.
+
 # Kesimpulan
 Prinsip-prinsip hukum jaminan di Indonesia dirancang untuk menciptakan fairness. Pasal 1131 dan 1132 KUHPerdata memastikan kreditur bisa mendapatkan uangnya kembali, namun larangan Pactum Commissorium memastikan kreditur tidak memanfaatkan posisi tawar debitur yang lemah untuk menguasai aset secara tidak adil. Kasus penggunaan PPJB sebagai jaminan membuktikan bahwa hakim di Indonesia jeli melihat substansi hukum untuk menegakkan larangan tersebut.
+
 # Daftar Pustaka
 Buku & Literatur Akademik:
 1. Satrio, J. (2007). Hukum Jaminan, Hak Jaminan Kebendaan. Bandung: Citra Aditya Bakti. (Analisis mendalam mengenai hubungan Schuld dan Haftung).
