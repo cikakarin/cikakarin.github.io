@@ -79,10 +79,10 @@ Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan p
 # Unsur Hukum Jaminan
 <figure style="text-align: center;">
   <img src="/images/unsur-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 1: Unsur Hukum Jaminan</figcaption>
+  <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
 
-## Referensi (Bibliography)
+## Daftar Pustaka
 Buku & Literatur Akademik:<br>
 Bahsan, M. (2012). *Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia*. Jakarta: RajaGrafindo Persada.<br>
 Isnaeni, M. (2016). *Pengantar Hukum Jaminan Kebendaan*. Surabaya: PT Revka Petra Media. (Analisis mendalam mengenai Droit de Preference).<br>
