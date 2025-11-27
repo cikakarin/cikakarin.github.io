@@ -41,12 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* PERMANENT JUSTIFY FOR ARTICLES */
-.page__content p, .page__content li {
-  text-align: justify !important;
-}
-/* 3. Ensure Headings (H1, H2) stay on the left (No Indent) */
-.page__content h1, .page__content h2, .page__content h3 {
-  text-indent: 0px !important;
-  text-align: left !important;
-}
