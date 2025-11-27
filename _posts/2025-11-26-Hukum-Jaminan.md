@@ -57,7 +57,9 @@ Tujuan dari sifat tertutup ini adalah demi kepastian hukum (legal certainty) dan
 -----
 # Keterkaitan Erat Antara Hukum Jaminan dengan Hukum Kekayaan dan Hak Kebendaan
 Hukum Jaminan adalah pranata hukum yang meminjam karakteristik absolut dari Hukum Kebendaan (seperti droit de suite dan kekuasaan langsung) untuk memberikan keamanan pada transaksi yang terjadi dalam ranah Hukum Perikatan, di mana keduanya terlingkup dalam satu sistem besar Hukum Kekayaan.
+
 **Hukum Jaminan dalam Spektrum Hukum Kekayaan (*Vermogensrecht*)**
+
 Pernyataan bahwa "Hukum Kekayaan mengatur hubungan hukum yang dapat dinilai dengan uang" merujuk pada konsep Hukum Harta Kekayaan (*Vermogensrecht*). Dalam sistematika hukum perdata Indonesia (KUHPerdata), Hukum Jaminan merupakan subsistem dari Hukum Kekayaan ini. Hukum Kekayaan adalah wadah besar yang membagi aset subjek hukum menjadi dua elemen:
 -	Aktiva: Segala hak dan benda yang dimiliki.
 -	Pasiva: Segala kewajiban atau utang yang harus dipenuhi.
@@ -65,18 +67,26 @@ Pernyataan bahwa "Hukum Kekayaan mengatur hubungan hukum yang dapat dinilai deng
 Kaitan erat antara Hukum Jaminan dengan dua pilar Hukum Kekayaan (perikatan dan kebendaan) dapat dijelaskan sebagai hubungan sebab-akibat (kausalitas) dan instrumen:
 -	Hukum Perikatan (Buku III KUHPerdata) sebagai kausa: Hukum Jaminan tidak lahir begitu saja. Ia lahir karena adanya hubungan utang-piutang yang diatur dalam Hukum Perikatan. Perjanjian utang adalah "perjanjian pokok", sedangkan jaminan adalah "perjanjian ikutan" (*accessoir*). Tanpa adanya perikatan yang bernilai ekonomis (utang), hukum jaminan tidak dapat diterapkan (Satrio, 2007).
 -	Hukum Kebendaan (Buku II KUHPerdata) sebagai instrumen: Untuk mengamankan perikatan (utang) tersebut, kreditur membutuhkan sesuatu yang lebih kuat daripada sekadar janji. Maka, digunakanlah rezim Hukum Kebendaan untuk mengikat aset debitur sebagai agunan.
+
 Analisis Regulasi: Hal ini tercermin dalam Pasal 1131 KUHPerdata yang menyatakan bahwa seluruh kebendaan debitur (Hukum Kebendaan) menjadi tanggungan untuk segala perikatan perorangannya (Hukum Perikatan).
 
 **Hak Kebendaan (*Zakelijk Recht*): Sifat Absolut dalam Jaminan**
+
 Definisi "Hak yang memberikan kekuasaan langsung dan dapat dipertahankan terhadap setiap orang" adalah esensi dari Hak Kebendaan (*Zakelijk Recht*). Dalam konteks Hukum Jaminan, karakteristik ini sangat vital untuk melindungi kreditur. Berikut adalah rincian elaborasi dari definisi tersebut berdasarkan hukum positif Indonesia:
+
 A. "Kekuasaan Langsung" (*Onmiddellijke Heerschappij*)
+
 Artinya, kreditur pemegang jaminan kebendaan memiliki hubungan langsung dengan benda jaminan tanpa perlu perantara atau izin dari pemilik benda (debitur) saat hendak mengeksekusinya jika terjadi wanprestasi.
 •	Implementasi Regulasi: Dalam Pasal 6 UU No. 4 Tahun 1996 (UU Hak Tanggungan) dan Pasal 15 ayat (3) UU No. 42 Tahun 1999 (UU Jaminan Fidusia), terdapat klausula "Demi Keadilan Berdasarkan Ketuhanan Yang Maha Esa". Klausula ini memberikan kekuatan eksekutorial yang sama dengan putusan pengadilan yang inkracht. Kreditur dapat langsung menjual benda jaminan (melalui lelang) tanpa perlu gugatan perdata biasa. Inilah wujud "kekuasaan langsung" tersebut (Bahsan, 2012).
+
 B. "Dipertahankan Terhadap Setiap Orang" (Sifat Absolut & *Droit de Suite*)
+
 Berbeda dengan hak perorangan (perjanjian) yang hanya mengikat pihak yang berjanji, Hak Kebendaan melekat pada bendanya.
 •	Konsep *Droit de Suite* (*Zaaksgevolg*): Hak jaminan akan terus mengikuti benda tersebut di tangan siapa pun benda itu berada. Jika debitur menjual mobil yang sedang dijaminkan secara fidusia kepada pihak ketiga, hak jaminan kreditur tidak hapus. Kreditur tetap berhak mengambil dan mengeksekusi mobil tersebut dari tangan pihak ketiga yang membelinya.
 •	Implementasi Regulasi: Prinsip ini ditegaskan dalam Pasal 7 UU Hak Tanggungan dan Pasal 20 UU Jaminan Fidusia, yang menjamin bahwa hak jaminan tetap mengikuti objeknya meskipun objek tersebut berpindah tangan/kepemilikan (Sofwan, 2001).
+
 C. Hak Didahulukan (*Droit de Preference*)
+
 Konsekuensi dari sifat "dapat dipertahankan terhadap setiap orang" adalah kreditur pemegang jaminan kebendaan (kreditur separatis) memiliki hak prioritas dibandingkan kreditur biasa (kreditur konkuren).
 •	Implementasi Regulasi: Sesuai Pasal 1132 KUHPerdata, hasil penjualan benda jaminan tidak dibagi secara proporsional (pari passu) dengan kreditur lain, melainkan digunakan sepenuhnya untuk melunasi kreditur pemegang hak kebendaan terlebih dahulu. Sisa uangnya barulah dibagikan kepada kreditur lain (Isnaeni, 2016).
 
