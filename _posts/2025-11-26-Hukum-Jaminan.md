@@ -34,7 +34,8 @@ Hukum Jaminan di Indonesia tidak berdiri sebagai satu undang-undang tunggal, mel
 Sistem ini menunjukkan bahwa hukum jaminan di Indonesia bersifat dinamis, bergerak dari kodifikasi kolonial (KUHPerdata) menuju unifikasi hukum nasional yang terfragmentasi berdasarkan objek jaminannya (Usanti & Firyani, 2019). Selain itu, salah satu karakteristik paling fundamental dari hukum jaminan—khususnya jaminan kebendaan (<i>zakelijke zekerheidsrechten</i>) adalah sifatnya yang tertutup (<i>closed system</i> / <i>gesloten system</i>). Konsep ini menegaskan bahwa orang-orang atau para pihak tidak diperbolehkan menciptakan atau memperjanjikan hak jaminan kebendaan jenis baru selain yang telah ditetapkan secara tegas oleh undang-undang (Sofwan, 2001). Hal ini berbeda dengan Hukum Perjanjian (Buku III KUHPerdata) yang menganut sistem terbuka (open system) dimana para pihak bebas membuat perjanjian apa saja selama tidak melanggar hukum.<br>
 Implikasi dari asas tertutup ini adalah:<br>
 - Asas Numerus Clausus: Jumlah dan jenis hak jaminan adalah terbatas (limited). Di Indonesia, lembaga jaminan hanya terbatas pada: Gadai, Fidusia, Hak Tanggungan, Hipotek (Kapal/Pesawat), dan Resi Gudang. Pihak swasta tidak bisa menciptakan "Jaminan X" yang memiliki sifat kebendaan di luar daftar tersebut (Satrio, 2002).<br>
-- Hukum Pemaksa (Dwingend Recht): Aturan mengenai pembentukan lembaga jaminan bersifat memaksa. Pelanggaran terhadap tata cara pembentukan ini mengakibatkan jaminan tersebut batal demi hukum atau tidak melahirkan hak preferen, melainkan hanya menjadi perjanjian biasa (Bahsan, 2012).<br>
+- Hukum Pemaksa (Dwingend Recht): Aturan mengenai pembentukan lembaga jaminan bersifat memaksa. Pelanggaran terhadap tata cara pembentukan ini mengakibatkan jaminan tersebut batal demi hukum atau tidak melahirkan hak preferen, melainkan hanya menjadi perjanjian biasa (Bahsan, 2012).
+
 Tujuan dari sifat tertutup ini adalah demi kepastian hukum (legal certainty) dan asas publisitas, sehingga pihak ketiga (masyarakat umum) dapat mengetahui status beban jaminan pada suatu aset tanpa keraguan.
 
 -----
@@ -47,15 +48,16 @@ Pernyataan bahwa "Hukum Kekayaan mengatur hubungan hukum yang dapat dinilai deng
 -	Pasiva: Segala kewajiban atau utang yang harus dipenuhi.<br>
 Kaitan erat antara Hukum Jaminan dengan dua pilar Hukum Kekayaan (perikatan dan kebendaan) dapat dijelaskan sebagai hubungan sebab-akibat (kausalitas) dan instrumen:
 -	Hukum Perikatan (Buku III KUHPerdata) sebagai kausa: Hukum Jaminan tidak lahir begitu saja. Ia lahir karena adanya hubungan utang-piutang yang diatur dalam Hukum Perikatan. Perjanjian utang adalah "perjanjian pokok", sedangkan jaminan adalah "perjanjian ikutan" (<i>accessoir</i>). Tanpa adanya perikatan yang bernilai ekonomis (utang), hukum jaminan tidak dapat diterapkan (Satrio, 2007).
--	Hukum Kebendaan (Buku II KUHPerdata) sebagai instrumen: Untuk mengamankan perikatan (utang) tersebut, kreditur membutuhkan sesuatu yang lebih kuat daripada sekadar janji. Maka, digunakanlah rezim Hukum Kebendaan untuk mengikat aset debitur sebagai agunan.<br>
+-	Hukum Kebendaan (Buku II KUHPerdata) sebagai instrumen: Untuk mengamankan perikatan (utang) tersebut, kreditur membutuhkan sesuatu yang lebih kuat daripada sekadar janji. Maka, digunakanlah rezim Hukum Kebendaan untuk mengikat aset debitur sebagai agunan.
+
 Analisis Regulasi: Hal ini tercermin dalam Pasal 1131 KUHPerdata yang menyatakan bahwa seluruh kebendaan debitur (Hukum Kebendaan) menjadi tanggungan untuk segala perikatan perorangannya (Hukum Perikatan).
 
 **Hak Kebendaan (*Zakelijk Recht*): Sifat Absolut dalam Jaminan**<br>
-Definisi "Hak yang memberikan kekuasaan langsung dan dapat dipertahankan terhadap setiap orang" adalah esensi dari Hak Kebendaan (<i>Zakelijk Recht</i>). Dalam konteks Hukum Jaminan, karakteristik ini sangat vital untuk melindungi kreditur. Berikut adalah rincian elaborasi dari definisi tersebut berdasarkan hukum positif Indonesia:</p><br>
+Definisi "Hak yang memberikan kekuasaan langsung dan dapat dipertahankan terhadap setiap orang" adalah esensi dari Hak Kebendaan (<i>Zakelijk Recht</i>). Dalam konteks Hukum Jaminan, karakteristik ini sangat vital untuk melindungi kreditur. Berikut adalah rincian elaborasi dari definisi tersebut berdasarkan hukum positif Indonesia:<br>
 A. "Kekuasaan Langsung" (<i>Onmiddellijke Heerschappij</i>)<br>
 Artinya, kreditur pemegang jaminan kebendaan memiliki hubungan langsung dengan benda jaminan tanpa perlu perantara atau izin dari pemilik benda (debitur) saat hendak mengeksekusinya jika terjadi wanprestasi.<br>
 •	Implementasi Regulasi: Dalam Pasal 6 UU No. 4 Tahun 1996 (UU Hak Tanggungan) dan Pasal 15 ayat (3) UU No. 42 Tahun 1999 (UU Jaminan Fidusia), terdapat klausula "Demi Keadilan Berdasarkan Ketuhanan Yang Maha Esa". Klausula ini memberikan kekuatan eksekutorial yang sama dengan putusan pengadilan yang inkracht. Kreditur dapat langsung menjual benda jaminan (melalui lelang) tanpa perlu gugatan perdata biasa. Inilah wujud "kekuasaan langsung" tersebut (Bahsan, 2012).<br>
-B. "Dipertahankan Terhadap Setiap Orang" (Sifat Absolut & <i>Droit de Suite</i>)</p><br>
+B. "Dipertahankan Terhadap Setiap Orang" (Sifat Absolut & <i>Droit de Suite</i>)<br>
 Berbeda dengan hak perorangan (perjanjian) yang hanya mengikat pihak yang berjanji, Hak Kebendaan melekat pada bendanya.<br>
 •	Konsep <i>Droit de Suite</i> (<i>Zaaksgevolg</i>): Hak jaminan akan terus mengikuti benda tersebut di tangan siapa pun benda itu berada. Jika debitur menjual mobil yang sedang dijaminkan secara fidusia kepada pihak ketiga, hak jaminan kreditur tidak hapus. Kreditur tetap berhak mengambil dan mengeksekusi mobil tersebut dari tangan pihak ketiga yang membelinya.<br>
 •	Implementasi Regulasi: Prinsip ini ditegaskan dalam Pasal 7 UU Hak Tanggungan dan Pasal 20 UU Jaminan Fidusia, yang menjamin bahwa hak jaminan tetap mengikuti objeknya meskipun objek tersebut berpindah tangan/kepemilikan (Sofwan, 2001).<br>
@@ -97,7 +99,6 @@ Kitab Undang-Undang Hukum Perdata (Burgerlijk Wetboek).<br>
 Undang-Undang No. 4 Tahun 1996 tentang Hak Tanggungan atas Tanah Beserta Benda-Benda yang Berkaitan dengan Tanah.<br>
 Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia.<br>
 Undang-Undang No. 1 Tahun 2009 tentang Penerbangan.<br>
-***
 
 ### Cara Mengutip (Citation)
 > **Cika Karin**. (2025). *"Hukum Jaminan."* Academic Law. Diakses dari: https://cikakarin.com/posts/2025/11/hukum-jaminan/
