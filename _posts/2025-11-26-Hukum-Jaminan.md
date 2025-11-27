@@ -166,6 +166,12 @@ Posisi PT. Finance A dalam kasus ini sangat lemah dan tindakan kurator adalah be
 
 Pengikatan jaminan di Indonesia menganut formalitas ketat. Meskipun gadai (dengan penguasaan fisik) masih memungkinkan penggunaan akta dibawah tangan, namun untuk jaminan fidusia dan hak tanggungan (tanpa penguasaan fisik) karena penggunaan akta autentik adalah syarat mutlak (*conditio sine qua non*). Kreditur yang mengabaikan syarat autentisitas demi efisiensi biaya, seperti dalam kasus di atas, berisiko kehilangan perlindungan hukum dan aset jaminannya saat debitur wanprestasi atau pailit.
 
+# <u>Hapusnya Perjanjian Pemberian Jaminan</u>
+- Hapusnya perjanjian pokok (dilakukan pembayaran).
+- Dieksekusinya objek jaminan.
+- Barang jaminan musnah.
+- Dilepaskannya hak pemegang jaminan.
+
 # <u>Daftar Pustaka</u>
 Buku & Literatur Akademik:
 1. Badrulzaman, M. D. (2001). *Kompilasi Hukum Jaminan*. Bandung: Citra Aditya Bakti. (Karya otoritatif mengenai doktrin perdata jaminan).
