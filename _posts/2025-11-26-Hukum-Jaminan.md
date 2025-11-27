@@ -135,6 +135,7 @@ Prinsip utamanya adalah *nemo plus iuris* (seseorang tidak dapat mengalihkan hak
 Niat saja tidak cukup, harus ada tindakan hukum nyata yang dituangkan dalam perjanjian. Tindakan sepihak (unilateral) debitur yang menyatakan "tanah ini saya jaminkan" tidak memiliki kekuatan hukum jaminan. Harus ada kata sepakat (agreement) yang dituangkan dalam bentuk yang ditentukan undang-undang, seperti hak tanggungan wajib Akta PPAT, fidusia wajib akta notaris, dan gadai cukup perjanjian lisan sah, namun syarat mutlaknya adalah penyerahan fisik barang (inbezitsstelling) kepada kreditur sesuai Pasal 1150 KUHPerdata.
 5. Syarat Tangguh (*Opschortende Voorwaarde*)
 Hak jaminan bisa digantungkan pada suatu kejadian di masa depan. Berdasarkan Pasal 1263 KUHPerdata, perikatan bersyarat tangguh adalah perikatan yang pelaksanaannya ditunda hingga peristiwa tertentu terjadi. Contoh, jaminan fidusia atas mesin pabrik yang baru akan di impor bulan depan. Hak jaminan kebendaan (fidusia) baru efektif lahir dan melekat saat syarat tangguh itu terpenuhi, yaitu saat mesin tiba dan menjadi milik debitur, bukan saat perjanjian ditandatangani.
+
 #### Contoh Kasus "Gadai Lensa Kamera Pinjaman".
 Saya mengambil contoh kasus mengenai kewenangan debitur dan pengecualian gadai sesuai Pasal 1152 ayat 4 dan 1977 KUHPerdata, berikut adalah kasus nyata yang sering terjadi, seperti "gadai lensa kamera pinjaman".
 Tuan A (peminjam /pPelaku) meminjam sebuah lensa kamera seharga Rp. 20 juta dari temannya, Tuan B (pemilik asli) dengan alasan untuk pekerjaan fotografi. Tanpa izin Tuan B, Tuan A membawa lensa tersebut ke Toko Gadai X (kreditur). Karena Tuan A memegang fisik lensa tersebut, Toko Gadai X percaya bahwa itu milik Tuan A. Toko Gadai X memberikan pinjaman Rp. 5 juta, dan Tuan A menyerahkan lensa tersebut. Tuan A kemudian menghilang, dan Tuan B mendatangi Toko Gadai X dan menuntut lensanya dikembalikan karena ia tidak pernah memberikan kuasa untuk menggadaikan.
@@ -145,7 +146,7 @@ Kesimpulannya, kelima syarat timbulnya hak jaminan kebendaan merupakan satu kesa
 
 # <u>Pengikatan Jaminan</u>
 Pengikatan jaminan adalah tahap krusial dalam perjanjian kredit. Ini adalah momen dimana perjanjian yang bersifat *accesoir* (ikutan) direalisasikan untuk mengikat aset tertentu sebagai agunan pelunasan utang dari perjanjian pokok. Di Indonesia, bentuk formalitas pengikatan ini sangat menentukan posisi hukum kreditur (kreditur preferen atau konkuren).
-### <u>Pengikatan Dengan Akta Autentik (*Authentieke Daad*)</u>
+### engikatan Dengan Akta Autentik (*Authentieke Daad*)
 Akta autentik adalah alat bukti yang memiliki kekuatan pembuktian sempurna (*volledig bewijs*). Berdasarkan Pasal 1868 KUHPerdata, suatu akta adalah autentik jika dibuat dalam bentuk yang ditentukan oleh undang-undang, oleh atau di hadapan pejabat umum yang berwenang (*openbaar ambtenaar*) di tempat akta itu dibuat. Undang-undang jaminan modern di Indonesia mayoritas mewajibkan penggunaan akta autentik sebagai syarat mutlak (*bestaansvoorwaarde*) validitas jaminan, bukan sekadar alat bukti. Contoh:
 - Hak tanggungan atas tanah wajib dibuat dengan Akta Pejabat Pembuat Akta Tanah (PPAT) sesuai Pasal 10 ayat (2) UU No. 4 Tahun 1996.
 - Jaminan fidusia (benda bergerak & harta lancar / inventory) qajib dibuat dengan akta Notaris dalam Bahasa Indonesia sesuai Pasal 5 ayat (1) UU No. 42 Tahun 1999.
