@@ -10,18 +10,16 @@ author: "Cika  Karin, d.B.A., d.M.C., B.A., B.A., S.H."
 excerpt: "Artikel ini membahas tentang prinsip dasar namun mendalam mengenai Hukum Jaminan."
 ---
 # Pengertian
-**Jaminan (*Zekerheid*)** <br>
+## Jaminan (*Zekerheid*)
 Secara terminologis, Jaminan atau <i>Zekerheid</i> (Belanda) merujuk pada "kemampuan" atau "objek" dari kekayaan debitur yang menjadi sandaran pelunasan utang. Dalam doktrin hukum perdata, zekerheid adalah jaring pengaman materiil yang memberikan kenyamanan bagi kreditur (Satrio, 2007). Di Indonesia, konsep <i>zekerheid</i> dibagi menjadi dua kategori berdasarkan regulasi:<br>
 Jaminan Umum: Berdasarkan Pasal 1131 Kitab Undang-Undang Hukum Perdata (KUHPerdata), seluruh harta benda debitur (bergerak/tidak bergerak, yang ada/akan ada) secara otomatis menjadi jaminan (<i>zekerheid</i>) bagi seluruh perikatannya.<br>
 Jaminan Khusus: Objek tertentu yang disisihkan secara spesifik untuk kreditur tertentu melalui perjanjian ikutan (accessoir), seperti tanah atau kendaraan (Sofwan, 2001).
-
-**Hukum Jaminan (*Zekerheidsstelling*)** <br>
+## Hukum Jaminan (*Zekerheidsstelling*)
 Istilah hukum jaminan dalam arti <i>zekerheidsstelling</i> berfokus pada aspek tata cara atau pranata pengikatannya. Ini adalah himpunan kaidah hukum yang mengatur proses konstruksi hubungan hukum antara kreditur dan debitur dalam hal pemberian agunan (Salim, 2014). Dalam konteks hukum positif Indonesia, <i>zekerheidsstelling</i> mengatur mekanisme legalitas pembebanan aset yang terbagi dalam beberapa rezim aturan:
 - Tanah: Diatur dalam UU No. 4 Tahun 1996 (UU Hak Tanggungan). Proses <i>zekerheidsstelling</i>-nya melibatkan pembuatan Akta Pemberian Hak Tanggungan (APHT) di hadapan PPAT.<br>
 - Benda Bergerak & Benda Tak Berwujud: Diatur dalam UU No. 42 Tahun 1999 (UU Jaminan Fidusia). Prosesnya melibatkan pendaftaran di Kantor Pendaftaran Fidusia.<br>
 - Gadai: Diatur dalam Pasal 1150-1160 KUHPerdata, yang mensyaratkan perpindahan penguasaan barang (<i>inbezitstelling</i>).
-
-**Hukum Jaminan (*Security of Law*)**<br>
+## Hukum Jaminan (*Security of Law*)
 Istilah hukum jaminan dalam arti <i>security of law</i> (atau <i>law of security</i>) menekankan pada aspek kepastian dan perlindungan hukum. Ini bukan sekadar tentang aturan main, melainkan tentang jaminan dari negara bahwa hak kreditur akan dilindungi jika debitur wanprestasi (Bahsan, 2012). Di Indonesia, aspek <i>security of law</i> ini termanifestasi dalam prinsip <i>droit de preference</i> (hak didahulukan). Berdasarkan Pasal 1132 KUHPerdata, hasil penjualan aset debitur dibagi secara proporsional (pari passu), kecuali ada alasan yang sah untuk didahulukan. Oleh karena itu, <i>security of law</i> memastikan bahwa kreditur pemegang jaminan khusus (separatis) memiliki hak eksekutorial dan tidak perlu berebut dengan kreditur lain (konkuren) dalam hal kepailitan atau eksekusi (Sjahdeini, 2016).
 
 # Sistem Hukum Jaminan di Indonesia
@@ -39,11 +37,9 @@ Implikasi dari asas tertutup ini adalah:<br>
 
 Tujuan dari sifat tertutup ini adalah demi kepastian hukum (legal certainty) dan asas publisitas, sehingga pihak ketiga (masyarakat umum) dapat mengetahui status beban jaminan pada suatu aset tanpa keraguan.
 
------
 # Keterkaitan Erat Antara Hukum Jaminan dengan Hukum Kekayaan dan Hak Kebendaan
 Hukum Jaminan adalah pranata hukum yang meminjam karakteristik absolut dari Hukum Kebendaan (seperti droit de suite dan kekuasaan langsung) untuk memberikan keamanan pada transaksi yang terjadi dalam ranah Hukum Perikatan, di mana keduanya terlingkup dalam satu sistem besar Hukum Kekayaan.
-
-**Hukum Jaminan dalam Spektrum Hukum Kekayaan (*Vermogensrecht*)**<br>
+## Hukum Jaminan dalam Spektrum Hukum Kekayaan (*Vermogensrecht*)
 Pernyataan bahwa "Hukum Kekayaan mengatur hubungan hukum yang dapat dinilai dengan uang" merujuk pada konsep Hukum Harta Kekayaan (<i>Vermogensrecht</i>). Dalam sistematika hukum perdata Indonesia (KUHPerdata), Hukum Jaminan merupakan subsistem dari Hukum Kekayaan ini. Hukum Kekayaan adalah wadah besar yang membagi aset subjek hukum menjadi dua elemen:<br>
 -	Aktiva: Segala hak dan benda yang dimiliki.<br>
 -	Pasiva: Segala kewajiban atau utang yang harus dipenuhi.<br>
@@ -53,7 +49,7 @@ Kaitan erat antara Hukum Jaminan dengan dua pilar Hukum Kekayaan (perikatan dan 
 
 Analisis Regulasi: Hal ini tercermin dalam Pasal 1131 KUHPerdata yang menyatakan bahwa seluruh kebendaan debitur (Hukum Kebendaan) menjadi tanggungan untuk segala perikatan perorangannya (Hukum Perikatan).
 
-**Hak Kebendaan (*Zakelijk Recht*): Sifat Absolut dalam Jaminan**<br>
+## Hak Kebendaan (*Zakelijk Recht*): Sifat Absolut dalam Jaminan
 Definisi "Hak yang memberikan kekuasaan langsung dan dapat dipertahankan terhadap setiap orang" adalah esensi dari Hak Kebendaan (<i>Zakelijk Recht</i>). Dalam konteks Hukum Jaminan, karakteristik ini sangat vital untuk melindungi kreditur. Berikut adalah rincian elaborasi dari definisi tersebut berdasarkan hukum positif Indonesia:<br>
 A. "Kekuasaan Langsung" (<i>Onmiddellijke Heerschappij</i>)<br>
 Artinya, kreditur pemegang jaminan kebendaan memiliki hubungan langsung dengan benda jaminan tanpa perlu perantara atau izin dari pemilik benda (debitur) saat hendak mengeksekusinya jika terjadi wanprestasi.<br>
@@ -67,14 +63,10 @@ Konsekuensi dari sifat "dapat dipertahankan terhadap setiap orang" adalah kredit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Implementasi Regulasi: Sesuai Pasal 1132 KUHPerdata, hasil penjualan benda jaminan tidak dibagi secara proporsional (pari passu) dengan kreditur lain, melainkan digunakan sepenuhnya untuk melunasi kreditur pemegang hak kebendaan terlebih dahulu. Sisa uangnya barulah dibagikan kepada kreditur lain (Isnaeni, 2016).
 
 # Pengertian Menurut Para Ahli
-**Salim H.S**<br>
-Hukum Jaminan adalah keseluruhan kaidah-kadiah hukum yang mengatur hubungan antara pemberi dan penerima jaminan dalam kaitannya dengan pembebanan jaminan untuk mendapatkan fasilitas kredit.<br>
-**Sri Soedewi Maschjoen Sofwan**<br>
-Hukum Jaminan adalah hukum yang mengatur konstruksi yuridis yang memungkinkan pemberian fasilitas kredit dengan menjaminkan benda-benda yang dibelinya sebagai jaminan.<br>
-**J. Satrio**<br>
-Hukum jaminan adalah peraturan hukum yang mengatur jaminan-jaminan piutang seorang kreditur terhadap debitur.<br>
-**M. Bahsan**<br>
-Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan penjaminan dalam rangka utang piutang (pinjaman uang) yang terdapat dalam berbagai peraturan perundang-undangan yang berlaku saat ini.<br>
+**Salim H.S** - Hukum Jaminan adalah keseluruhan kaidah-kadiah hukum yang mengatur hubungan antara pemberi dan penerima jaminan dalam kaitannya dengan pembebanan jaminan untuk mendapatkan fasilitas kredit.<br>
+**Sri Soedewi Maschjoen Sofwan** - Hukum Jaminan adalah hukum yang mengatur konstruksi yuridis yang memungkinkan pemberian fasilitas kredit dengan menjaminkan benda-benda yang dibelinya sebagai jaminan.<br>
+**J. Satrio** - Hukum jaminan adalah peraturan hukum yang mengatur jaminan-jaminan piutang seorang kreditur terhadap debitur.<br>
+**M. Bahsan** - Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan penjaminan dalam rangka utang piutang (pinjaman uang) yang terdapat dalam berbagai peraturan perundang-undangan yang berlaku saat ini.<br>
 
 # Unsur Hukum Jaminan
 <figure style="text-align: center;">
@@ -82,7 +74,10 @@ Hukum Jaminan merupakan himpunan ketentuan yang mengatur atau berkaitan dengan p
   <figcaption>Figure 1: Unsur Hukum Jaminan. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
 
-## Daftar Pustaka
+# Sumber Hukum
+
+
+# Daftar Pustaka
 Buku & Literatur Akademik:<br>
 Bahsan, M. (2012). *Hukum Jaminan dan Jaminan Kredit Perbankan Indonesia*. Jakarta: RajaGrafindo Persada.<br>
 Isnaeni, M. (2016). *Pengantar Hukum Jaminan Kebendaan*. Surabaya: PT Revka Petra Media. (Analisis mendalam mengenai Droit de Preference).<br>
