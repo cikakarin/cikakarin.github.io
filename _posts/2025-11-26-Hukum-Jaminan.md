@@ -79,12 +79,15 @@ Istilah hukum jaminan dalam arti <i>security of law</i> (atau <i>law of security
 
 # <u>Klasifikasi Jaminan </u>
 ### Klasifikasi Jaminan Menurut Sifatnya
-
+<figure style="text-align: center;">
+  <img src="/images/klasifikasi-jaminan-menurut-sifatnya.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 5: Klasifikasi Jaminan Menurut Sifatnya. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+</figure>
 
 ### Klasifikasi Jaminan Dilihat dari Sifatnya
 <figure style="text-align: center;">
-  <img src="/images/subjek-hukum-jaminan.jpg" alt="Description" style="width: 80%;">
-  <figcaption>Figure 5: Klasifikasi Jaminan dari Sifatnya. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
+  <img src="/images/klasifikasi-jaminan-dari-sifatnya.jpg" alt="Description" style="width: 80%;">
+  <figcaption>Figure 6: Klasifikasi Jaminan dari Sifatnya. Sumber dari: PowerPoint Dr. Jelly Nasseri, S.H., M.H.</figcaption>
 </figure>
 
 # <u>Sistem Hukum Jaminan di Indonesia</u>
